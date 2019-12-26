@@ -1,0 +1,383 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>كىرىڭ -  مىسرانىم مۇنبىرى -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",مىسرانىم مۇنبىرى" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.misranim.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?Yju" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_member_logging.css?Yju" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Yju', charset = 'utf-8', discuz_uid = '0', cookiepre = 'gaZi_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ياخشى باھا|,2|مۇنبەر پۇلى|,3|تۆھپە نۇمۇرى|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5taXNyYW5pbS5jb20vbWVtYmVyLnBocD9tb2Q9bG9nZ2luZyZhY3Rpb249bG9naW4=', SITEURL = 'http://bbs.misranim.com/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script type="text/javascript">
+    var UG_VK_OPTS = {
+        all:  true,
+        blacklist: ['share_link', 'slink', 'seccodeverify', 'secanswer', 'price',
+            'readperm', 'email', 'qq', 'icq', 'yahoo', 'msn', 'site', 'alipay',
+            'taobao', 'bdaynew', 'sitenew', 'icqnew', 'qqnew', 'yahoonew',
+            'alipaynew', 'taobaonew', 'msnnew', 'emailnew', 'seccodeverify',
+            'nqemail','username']
+    };
+</script>
+<script src="static/js/ug_vk.min.js?Yju" type="text/javascript" charset="utf-8"></script>
+<script src="static/js/common.js?Yju" type="text/javascript"></script>
+<meta name="application-name" content="مىسرانىم مۇنبىرى" />
+<meta name="msapplication-tooltip" content="مىسرانىم مۇنبىرى" />
+<meta name="msapplication-task" content="name=مۇنبەر;action-uri=http://bbs.misranim.com/forum.php;icon-uri=http://bbs.misranim.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=ھويلا;action-uri=http://bbs.misranim.com/home.php;icon-uri=http://bbs.misranim.com/static/image/common/home.ico" /></head>
+
+<body id="nv_member" class="pg_logging" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"></div>
+
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="ياردەمچى زىيارەتنى ئېچىش" class="switchblind">ياردەمچى زىيارەتنى ئېچىش</a>
+</div>
+</div>
+</div>
+
+
+<div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://bbs.misranim.com/" title="مىسرانىم مۇنبىرى"><img src="template/misranim_img//logo.png" alt="مىسرانىم مۇنبىرى" border="0" /></a></h2>
+</div><div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">تىزىملىك</a>
+<ul><li id="mn_forum" ><a href="http://bbs.misranim.com/forum.php" hidefocus="true" title="BBS"  >مۇنبەر<span>BBS</span></a></li><li id="mn_home" ><a href="http://bbs.misranim.com/home.php" hidefocus="true" title="Space"  >ھويلا<span>Space</span></a></li><li id="mn_Nc927" ><a href="search.php?mod=forum" hidefocus="true"  >ئىزدەش</a></li><li id="nqminisearch"><!-- common/nqpubsearchform --></li>
+</ul>
+<div class="kirix_uqur"><div class="y">
+<a class="xi2" onclick="showWindow('login', this.href);return false;" href="member.php?mod=logging&amp;action=login">كىرىش</a>
+<span class="pipe">|</span><a href="member.php?mod=register" class="xi2 xw1">تىزىملىتىش</a>
+<a id="minisearch" href="search.php?mod=forum" target="_blank">ئىزدەش</a>
+</div>
+</div>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div>
+<div id="mu" class="cl">
+
+</div>
+
+</div>
+</div><div id="hd_ad">
+<div class="wp"><div class="a_mu"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=unicode">
+</head>
+<table width="960" border="0" align="center">
+	<tbody>
+		<tr>
+
+	</tr>
+		<table width="960" border="0" align="center">
+	<tbody>
+</tbody></table>
+		
+		
+		<table width="960" border="0" align="center" >
+	<tbody>
+		<tr>
+	<td width="320">
+		<a href="http://www.irpan.com" target="_blank">
+		<img border="0" src="http://bbs.misranim.com/elan/irpan.gif" width="318" 
+
+height="80"></a></td>
+		<td width="320">
+		<a href="http://bbs.misranim.com/elan/kayinat/" target="_blank">
+		<img border="0" src="http://www.misranim.com/elan/tawlan.gif" width="317" height="80"></a> 
+		</td>
+
+		<td width="320">
+		<a href="http://www.xjhayat.com/u/y1.asp" target="_blank">
+		<img border="0" src="http://bbs.misranim.com/elan/hayatnuri.gif" width="317" 
+
+height="80"></a></td>
+
+	</tr>
+</tbody></table>
+<table width="958" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr 
+
+class="h" style="font-size:15px;background: rgba(11, 164, 202, 0.69);">
+<td height="32" style=";text-align:center;color:#FFFFFF;padding:5px 7px 0px 7px;">
+<span>
+
+
+<a href="http://www.misranim.com" title="MisraniM" target="_blank"><font 
+
+color="#FFFFFF">
+
+مىسرانىم باش بېتى </font></a>
+
+<a href="http://www.misranim.com/lirika" title="مۇھەببەت لىرىكىسى" target="_blank"><font 
+
+color="#ffffff">| مۇھەببەت لىرىكىسى  </font></a>
+<a href="http://www.misranim.com/html/down/20116521662777_1.html" title="تور ئويۇنلىرى" 
+
+target="_blank"><font color="#ffffff"> | تور ئويۇنلىرى </font></a>
+<a href="http://www.misranim.com/html/mtv/20108477682244_1.html" title="MTV" 
+
+target="_blank"><font color="#ffffff">|سۈرەتلىك ناخشا  </font></a>
+<a href="http://www.misranim.com/html/music/awazlik/20110682874933_1.html" title="
+
+ماگزىن" 
+
+target="_blank"><font color="#ffffff">|ئاۋازلىق ئەسەرلەر </font></a>
+<a href="http://www.misranim.com/html/music/uyghur/20118889761401_1.html" title="MP3" 
+
+target="_blank"><font color="#FFFFFF">| سۈرەتسىز ناخشا  </font></a>
+<a href="http://www.misranim.com/html/down/20116521662777_1.html" title="يۇمشاق دىتال" 
+
+target="_blank"><font color="#ffffff"> | يۇمشاق دىتال </font></a>
+<a href="http://www.misranim.com/gul" title="يۇمشاق دىتال" target="_blank"><font 
+
+color="#ffffff"> | تېما بېزەش رەسىمى </font></a>
+
+</span></td>
+
+</tr></tbody></table>
+
+
+
+
+
+</td></tr></tbody></table>
+<tr>
+<div style="width:100%; height:42px; background:url(static/image/public/bgimgs/tbg2.gif) repeat-x;"></div></div></div>
+</div>
+
+<style type="text/css"> /* .pl table.nurqut_tbg{width:auto;} */ table.nurqut_tbg td{text-indent:0;}</style>
+<div id="wp" class="wp">
+<div id="ct" class="ptm wp w cl">
+<div class="nfl" id="main_succeed" style="display: none">
+<div class="f_c altw">
+<div class="alert_right">
+<p id="succeedmessage"></p>
+<p id="succeedlocation" class="alert_btnleft"></p>
+<p class="alert_btnleft"><a id="succeedmessage_href">زىيارەتچىڭىز ئاپتوماتىك قايتالمىسا ، بۇ يەرنى چېكىپ قايتىڭ .</a></p>
+</div>
+</div>
+</div>
+<div class="mn" id="main_message">
+<div class="bm">
+<div class="bm_h bbs">
+<span class="y">
+<a href="member.php?mod=register" class="xi2">تېخى تىزىملاتمىغانمۇ؟ <a href="member.php?mod=register">تىزىملىتىش</a></a>
+</span>
+<h3 class="xs2">كىرىش</h3>
+</div>
+<div>
+
+<div id="main_messaqge_LVJzi">
+<div id="layer_login_LVJzi">
+<h3 class="flb">
+<em id="returnmessage_LVJzi">
+</em>
+<span></span>
+</h3>
+<form method="post" autocomplete="off" name="login" id="loginform_LVJzi" class="cl" onsubmit="pwmd5('password3_LVJzi');pwdclear = 1;ajaxpost('loginform_LVJzi', 'returnmessage_LVJzi', 'returnmessage_LVJzi', 'onerror');return false;" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;loginhash=LVJzi">
+<div class="c cl">
+<input type="hidden" name="formhash" value="f278b19d" />
+<input type="hidden" name="referer" value="forum.php" />
+<div class="rfm">
+<table>
+<tr>
+<th>
+<label for="username_LVJzi">ھېسابات:</label></th>
+<td><input type="text" name="username" id="username_LVJzi" autocomplete="off" size="30" class="px p_fre" tabindex="1" value="" /></td>
+<td class="tipcol"><a href="member.php?mod=register">تىزىملىتىش</a></td>
+</tr>
+</table>
+</div>
+<div class="rfm">
+<table>
+<tr>
+<th><label for="password3_LVJzi">پارول:</label></th>
+<td><input type="password" id="password3_LVJzi" name="password" onfocus="clearpwd()" size="30" class="px p_fre" tabindex="1" /></td>
+<td class="tipcol"><a href="javascript:;" onclick="display('layer_login_LVJzi');display('layer_lostpw_LVJzi');" title="پارول قايتۇرۇۋېلىش">پارول قايتۇرۇۋېلىش</a></td>
+</tr>
+</table>
+</div>
+<div class="rfm">
+<table>
+<tr>
+<th>بىخەتەرلىك سوئالى:</th>
+<td><select id="loginquestionid_LVJzi" width="213" name="questionid" onchange="if($('loginquestionid_LVJzi').value > 0) {$('loginanswer_row_LVJzi').style.display='';} else {$('loginanswer_row_LVJzi').style.display='none';}">
+<option value="0">بىخەتەرلىك سوئالى(بېكىتمىگەن بولسىڭىز تاللىماڭ)</option>
+<option value="1">ئانامنىڭ ئىسمى</option>
+<option value="2">بوۋامنىڭ ئىسمى</option>
+<option value="3">دادام تۇغۇلغان شەھەر</option>
+<option value="4">ئوقۇتقۇچۇمنىڭ ئىسمى</option>
+<option value="5">شەخسىي كومپيۇتېرىمنىڭ تىپى</option>
+<option value="6">ياقتۇرىدىغان ئاشخانىنىڭ ئىسمى</option>
+<option value="7">پراۋامنىڭ ئاخىرقى تۆت خانىسى</option>
+</select></td>
+</tr>
+</table>
+</div>
+<div class="rfm" id="loginanswer_row_LVJzi"  style="display:none">
+<table>
+<tr>
+<th>جاۋاب:</th>
+<td><input type="text" name="answer" id="loginanswer_LVJzi" autocomplete="off" size="30" class="px p_fre" tabindex="1" /></td>
+</tr>
+</table>
+</div>
+
+
+<div class="rfm ">
+<table>
+<tr>
+<th></th>
+<td><label for="cookietime_LVJzi"><input type="checkbox" class="pc" name="cookietime" id="cookietime_LVJzi" tabindex="1" value="2592000"  />ساقلاش</label></td>
+</tr>
+</table>
+</div>
+
+<div class="rfm mbw bw0">
+<table width="100%">
+<tr>
+<th>&nbsp;</th>
+<td>
+<button class="pn pnc" type="submit" name="loginsubmit" value="true" tabindex="1"><strong>كىرىش</strong></button>
+</td>
+<td>
+<a href="javascript:;" onclick="ajaxget('member.php?mod=clearcookies&formhash=f278b19d', 'returnmessage_LVJzi', 'returnmessage_LVJzi');return false;" title="قالدۇق تازىلاش" class="y">قالدۇق تازىلاش</a></td>
+</tr>
+</table>
+</div>
+
+<div class="rfm bw0  mbw">
+<hr class="l" />
+<table>
+<tr>
+<th>تېز كىرىش:</th>
+<td>
+
+<a href="http://bbs.misranim.com/connect.php?mod=login&op=init&referer=forum.php&statfrom=login" target="_top" rel="nofollow"><img src="static/image/common/qq_login.gif" class="vm" /></a>
+
+</td>
+</tr>
+</table>
+</div>
+</div>
+</form>
+</div>
+<script src="static/js/md5.js?Yju" type="text/javascript" reload="1"></script>
+<div id="layer_lostpw_LVJzi" style="display: none;">
+<h3 class="flb">
+<em id="returnmessage3_LVJzi">پارول قايتۇرۇۋېلىش</em>
+<span></span>
+</h3>
+<form method="post" autocomplete="off" id="lostpwform_LVJzi" class="cl" onsubmit="ajaxpost('lostpwform_LVJzi', 'returnmessage3_LVJzi', 'returnmessage3_LVJzi', 'onerror');return false;" action="member.php?mod=lostpasswd&amp;lostpwsubmit=yes&amp;infloat=yes">
+<div class="c cl">
+<input type="hidden" name="formhash" value="f278b19d" />
+<input type="hidden" name="handlekey" value="lostpwform" />
+<div class="rfm">
+<table>
+<tr>
+<th><span class="rq">*</span><label for="lostpw_email">Email:</label></th>
+<td><input type="text" name="email" id="lostpw_email" size="30" value=""  tabindex="1" class="px p_fre" /></td>
+</tr>
+</table>
+</div>
+<div class="rfm">
+<table>
+<tr>
+<th><label for="lostpw_username">نامىڭىز:</label></th>
+<td><input type="text" name="username" id="lostpw_username" size="30" value=""  tabindex="1" class="px p_fre" /></td>
+</tr>
+</table>
+</div>
+
+<div class="rfm mbw bw0">
+<table>
+<tr>
+<th></th>
+<td><button class="pn pnc" type="submit" name="lostpwsubmit" value="true" tabindex="100"><span>يوللاش</span></button></td>
+</tr>
+</table>
+</div>
+</div>
+</form>
+</div>
+</div>
+
+<div id="layer_message_LVJzi" class="f_c blr nfl" style="display: none;">
+<h3 class="flb" id="layer_header_LVJzi">
+</h3>
+<div class="c"><div class="alert_right">
+<div id="messageleft_LVJzi"></div>
+<p class="alert_btnleft" id="messageright_LVJzi"></p>
+</div>
+</div>
+
+<script type="text/javascript" reload="1">
+var pwdclear = 0;
+function initinput_login() {
+document.body.focus();
+if($('loginform_LVJzi')) {
+$('loginform_LVJzi').username.focus();
+}
+}
+initinput_login();
+
+function clearpwd() {
+if(pwdclear) {
+$('password3_LVJzi').value = '';
+}
+pwdclear = 0;
+}
+</script></div></div></div></div>
+</div>
+	</div>
+
+
+
+
+
+<div id="ft" class="wp cl">
+<div id="flk" class="" style="text-align:center;">
+<p>
+<a href="/" >مۇنبەر باش بېتىگە قايتىش</a><span class="pipe">|</span><a href="http://bbs.misranim.com/forum.php?mod=misc&action=showdarkroom" >قاماقخانا</a><span class="pipe">|</span><a href="http://bbs.misranim.com/forum.php?mobile=yes" >يانفۇن</a><span class="pipe">|</span><strong><a href="http://bbs.misranim.com" target="_blank">مىسرانىم مۇنبىرى</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">黔ICP备15011399号</a> )</p>
+<p class="xs0" style="font-size: 17px;">
+<span id="debuginfo">
+GMT+8, 2016-1-31 02:08 AM, Processed in 0.018581 second(s), 9 queries
+.
+</span>
+</p>
+</div>
+<div id="frt" style="text-align:center;">
+<p style="direction: ltr;">Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em>(<a title="ULP:20141102 by Nurqut Team" target="_blank" href="http://www.nurqut.net">NurQut Team</a>)
+<span style="direction: ltr;font-size: 17px;" class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></span><br><font color="red">شىنجاڭ مىسرانىم مەدەنىيەت تارقىتىش چەكلىك شىركىتى  </font></p>
+<div id="footer">
+<div class="footer">
+<div align="center">
+
+
+
+<p>
+بېكىتىمىزدىكى يازمىلار شۇ شەخىسنىڭ شەخسىي كۆز قارىشىغا ۋەكىللىك قىلىدۇ،بىكىتىمىز بىلەن مۇناسىۋەتسىز.مۇنبىرىمىز پەقەتلا پىكىر ئالماشتۇرۇش سورۇنى ھازىرلىغان.
+<br>免责声明：本论坛所有来帖仅代表网友个人观点，不代表秘思栏目网立场。本站只提供交流平台<br>
+<font color="red">بېكىتىمىز سىياسىيلىقى كۈچلۈك ،سېرىق ھەم دۆلىتىمىز قانۇنىغا زىت بولغان يازمىلارنى چەكلەيدۇ.ئۆزىڭىزنى ئاسراپ ئالدىنىشتىن ھەزەر ئەيلەڭ</font><br>
+<font color="red">本站禁止色情,政治,反动等国家法律不允许的内容，注意自我保护,谨防上当受骗</font><br>
+<font color="blue">مەدەنىيەتلىك تور مۇھىيتى ھازىرلاپ ،ناچار ئۇچۇرلارنى پاش قىلىڭ. QQ:364103 ،E-mail:364103@qq.com،</font>
+<br>文明办网文明上网举报QQ:364103,  举报E-mail:364103@qq.com </p>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;&nbsp;<a href="http://www.315rx.com/" target="_blank"><img src="static/image/tupian/zd/calogo.gif"></a><a href="http://www.bj.cyberpolice.cn/" target="_blank"><img src="static/image/tupian/zd/wzdzbs.gif"></a>&nbsp;&nbsp;<a href="http://net.china.com.cn/" target="_blank"><img src="static/image/tupian/zd/one.gif"></a>&nbsp; <a href="http://www.wgwj.gov.cn/" target="_blank"><img src="static/image/tupian/zd/three.gif"></a>&nbsp; <a href="http://www.itrust.org.cn" target="_blank"><img src="static/image/tupian/zd/1.png"></a></p>
+</div></div></div>	</div>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1454177310" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="چوققىغا قايتىش" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>چوققىغا قايتىش</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '8464807|X3.2|0.6||0||0|7|1454177310|89d6707ce621b0432e779dd98030f722|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

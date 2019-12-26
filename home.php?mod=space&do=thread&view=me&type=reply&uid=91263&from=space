@@ -1,0 +1,705 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>شاتيارنىڭ يازمىسى -  مىسرانىم مۇنبىرى - &#1605;&#1735;&#1606;&#1576;&#1609;&#1585;&#1609; &#1605;&#1609;&#1587;&#1585;&#1575;&#1606;&#1609;&#1605;</title>
+
+<meta name="keywords" content="شاتيارنىڭ يازمىسى" />
+<meta name="description" content="شاتيارنىڭ يازمىسى ,مىسرانىم مۇنبىرى" />
+<meta name="generator" content="Discuz! X2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2011 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.misranim.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?9p9" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_home_space.css?9p9" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = '9p9', charset = 'utf-8', discuz_uid = '0', cookiepre = 'gaZi_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ياخشى باھا|,2|مۇنبەر پۇلى|,3|تۆھپە نۇمۇرى|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5taXNyYW5pbS5jb20vaG9tZS5waHA/bW9kPXNwYWNlJmRvPXRocmVhZCZ2aWV3PW1lJnR5cGU9cmVwbHkmdWlkPTkxMjYzJmZyb209c3BhY2U=', SITEURL = 'http://bbs.misranim.com/', JSPATH = 'static/js/';</script>
+<script src="static/js/bedit.js?9p9" type="text/javascript"></script>
+<script src="static/js/common.js?9p9" type="text/javascript"></script><script src="static/js/home.js?9p9" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="data/cache/style_1_css_space.css?9p9" />
+<link id="style_css" rel="stylesheet" type="text/css" href="static/space/t5/style.css?9p9">
+<style id="diy_style">BODY {color:#FF0000 !important;}</style>
+</head>
+
+<body id="space" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+
+
+<div id="toptb" class="cl">
+<div class="y">
+<a href="http://bbs.misranim.com/member.php?mod=register">تىزىملىتىش</a>
+<a href="http://bbs.misranim.com/member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)">كىرىش</a>
+</div>
+<div class="z">
+<a href="./" title="مىسرانىم مۇنبىرى" class="xw1">مىسرانىم مۇنبىرى</a>
+<a href="http://bbs.misranim.com/home.php?mod=space&amp;do=home" id="navs" class="showmenu" onmouseover="showMenu(this.id);">باش بەتكە قايتىش</a>
+</div>
+</div>
+<div id="hd" class="wp cl">
+<h2 id="spaceinfoshow"><strong id="spacename" class="mbn">
+شاتيارنىڭ ھويلىسى</strong>
+<span class="xs0 xw0">
+<a id="domainurl" href="http://bbs.misranim.com/?91263" onclick="setCopy('http://bbs.misranim.com/?91263', '空间地址复制成功');return false;">http://bbs.misranim.com/?91263</a>
+<a href="javascript:;" onclick="addFavorite(location.href, document.title)">[ساقلانما]</a>
+<a id="domainurl" href="http://bbs.misranim.com/?91263" onclick="setCopy('http://bbs.misranim.com/?91263', '空间地址复制成功');return false;">[كۆچۈرۈش ]</a>
+<a id="share_space" href="home.php?mod=spacecp&amp;ac=share&amp;type=space&amp;id=91263" onclick="showWindow(this.id, this.href, 'get', 0);">[ھەمبەھر]</a>
+<a href="http://bbs.misranim.com/home.php?mod=rss&amp;uid=91263">[RSS]</a>
+</span>
+<span id="spacedescription" class="xs1 xw0 mtn"></span>
+</h2><div id="nv">
+<ul>
+<li><a href="http://bbs.misranim.com/space-uid-91263.html">باش بەت</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=home&amp;view=me&amp;from=space">يېڭىلىق</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=doing&amp;view=me&amp;from=space">خاتىرە</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=blog&amp;view=me&amp;from=space">بلوگ</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=album&amp;view=me&amp;from=space">ئالبوم</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=thread&amp;view=me&amp;from=space">تېما</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=share&amp;view=me&amp;from=space">ھەمبەھر</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=friend&amp;view=me&amp;from=space">دوست</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=wall">سۆز</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=profile">ماتېرىيال</a></li>
+</ul>
+</div></div>
+
+<ul id="navs_menu" class="p_pop topnav_pop" style="display:none;">                                <li id="mn_forum" ><a href="http://bbs.misranim.com/forum.php" hidefocus="true" title="BBS"  >مۇنبەر<span>BBS</span></a></li>                                <li id="mn_home" ><a href="http://bbs.misranim.com/home.php" hidefocus="true" title="Space"  >ھويلا<span>Space</span></a></li>                                                                                <li id="mn_Nc927" ><a href="http://bbs.misranim.com/search.php?mod=forum" hidefocus="true"  >ئىزدەش</a></li></ul>
+<ul id="myspace_menu" class="p_pop" style="display:none;">
+    <li><a href="http://bbs.misranim.com/home.php?mod=space">ھويلام</a></li><li><a href="http://bbs.misranim.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.misranim.com/static/image/feed/friend_b.png) !important">دوست</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&do=thread&view=me" style="background-image:url(http://bbs.misranim.com/static/image/feed/thread_b.png) !important">يازما</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.misranim.com/static/image/feed/favorite_b.png) !important">ساقلىغۇن</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=magic" style="background-image:url(http://bbs.misranim.com/static/image/feed/magic_b.png) !important">جابدۇق</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=medal" style="background-image:url(http://bbs.misranim.com/static/image/feed/medal_b.png) !important">ئوردېن</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=task" style="background-image:url(http://bbs.misranim.com/static/image/feed/task_b.png) !important">ۋەزىپە</a></li>
+</ul>
+<div id="ct" class="ct2 wp cl">
+<div class="mn">
+<div class="bm">
+<div class="bm_h cl">
+<h1 class="mt">
+<span class="xs1 xw0"><a href="http://bbs.misranim.com/home.php?mod=space&amp;do=thread&amp;view=me&amp;type=thread&amp;uid=91263&amp;from=space">تېما</a><span class="pipe">|</span></span>ئىنكاس
+</h1>
+</div>
+<div class="bm_c">
+
+<div class="tl">
+<form method="post" autocomplete="off" name="delform" id="delform" action="home.php?mod=space&amp;do=thread&amp;view=all&amp;order=dateline" onsubmit="showDialog('تاللانغان تېمىنى راستلا ئۆچۈرەمسىز؟', 'confirm', '', '$(\'delform\').submit();'); return false;">
+<input type="hidden" name="formhash" value="2f8bb26d" />
+<input type="hidden" name="delthread" value="true" />
+
+<table cellspacing="0" cellpadding="0">
+<tr class="th">
+<td class="icn">&nbsp;</td>
+<th>يازما</th>
+<td class="frm">سەھىپە</td>
+<td class="num"> تەكشۈرۈش/ئىنكاس قايتۇرۇش</td>
+<td class="by"><cite>ئاخىرقى يوللانغىنى بويىچە</cite></td>
+</tr>
+
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=138910&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_new.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=138910&amp;pid=2064005" target="_blank">مۆتىۋەر خەلقئارا سودا چەكلىك شىركىتىنىڭ 2014-يىللىق خىزمەتلەرنى خۇلا</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-138910-1-1.html" target="_blank">1</a> <a href="thread-138910-2-1.html" target="_blank">2</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-46-1.html" class="xg1" target="_blank">باشقا رەسىملەر</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-138910-1-1.html" class="xi2" target="_blank">11</a>
+<em>2001</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-%25D8%25B3%25DB%2587%25D9%2585%25DB%2587%25D8%25B1%25D8%25BA.html" target="_blank">سۇمۇرغ</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=138910&amp;goto=lastpost#lastpost" target="_blank"><span title="2015-5-23 08:46:56 AM">7&nbsp;كۈن ئالدىدا</span></a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> تارتقان رەسىملەرنىڭ ھەممىسىنى يوللىماي ئوبرازلىق، سۆ ... <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=138677&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_new.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=138677&amp;pid=2060412" target="_blank">گۆركارنىڭ كۈندىلىك خاتىرسى</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-138677-1-1.html" target="_blank">1</a> <a href="thread-138677-2-1.html" target="_blank">2</a> <a href="thread-138677-3-1.html" target="_blank">3</a> <a href="thread-138677-4-1.html" target="_blank">4</a> <a href="thread-138677-5-1.html" target="_blank">5</a> <a href="thread-138677-6-1.html" target="_blank">6</a>  .. <a href="thread-138677-18-1.html" target="_blank">18</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-36-1.html" class="xg1" target="_blank">مىسرانىم تور ئەسەرلىرى</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-138677-1-1.html" class="xi2" target="_blank">174</a>
+<em>27834</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-Taygann.html" target="_blank">Taygann</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=138677&amp;goto=lastpost#lastpost" target="_blank"><span title="2015-5-28 05:04:17 PM">ئۈلۈشكۈن&nbsp;05:04 PM</span></a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> ئىپتىخار مۇنبىرى ئۇچۇققۇ؟ <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=138647&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=138647&amp;pid=2060207" target="_blank">[1080P] تەنتەك مايمۇن (ئۇيغۇرچە*ۋەششى كومىدىيەلىك فىلىم)</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-138647-1-1.html" target="_blank">1</a> <a href="thread-138647-2-1.html" target="_blank">2</a> <a href="thread-138647-3-1.html" target="_blank">3</a> <a href="thread-138647-4-1.html" target="_blank">4</a> <a href="thread-138647-5-1.html" target="_blank">5</a> <a href="thread-138647-6-1.html" target="_blank">6</a>  .. <a href="thread-138647-25-1.html" target="_blank">25</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-31-1.html" class="xg1" target="_blank">كىنو-فىلىملەر</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-138647-1-1.html" class="xi2" target="_blank">241</a>
+<em>9480</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-%25D8%25B1%25DB%2595%25D8%25A6%25D8%25B3%25DB%2595.html" target="_blank">رەئسە</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=138647&amp;goto=lastpost#lastpost" target="_blank">2015-5-22 01:15:00 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> كۆرۈپ باقاي <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=138521&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=138521&amp;pid=2058249" target="_blank">يىپەك يولى ساداسى 28- سانى</a>
+<img src="static/image/filetype/common.gif" alt="ئىلاۋە" align="absmiddle" />
+<span class="tps">... <a href="thread-138521-1-1.html" target="_blank">1</a> <a href="thread-138521-2-1.html" target="_blank">2</a> <a href="thread-138521-3-1.html" target="_blank">3</a> <a href="thread-138521-4-1.html" target="_blank">4</a> <a href="thread-138521-5-1.html" target="_blank">5</a> <a href="thread-138521-6-1.html" target="_blank">6</a>  .. <a href="thread-138521-10-1.html" target="_blank">10</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-96-1.html" class="xg1" target="_blank">قىسقا فىلىملار</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-138521-1-1.html" class="xi2" target="_blank">96</a>
+<em>17645</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-%25D8%25A6%25DA%25BE%25D8%25B3%25D8%25A7%25D9%2586.html" target="_blank">ئھسان</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=138521&amp;goto=lastpost#lastpost" target="_blank">2015-5-19 04:28:03 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> بۇ تىمىدىكى تالاش-تارتىش تۈگىمەپتۇدە تېخى.....
+
+
+ئاجايىپ  ... <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=138143&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=138143&amp;pid=2053090" target="_blank">دانىشمەن ھەقسىز كۇتۇپخانىسى ئېچىلدى</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-138143-1-1.html" target="_blank">1</a> <a href="thread-138143-2-1.html" target="_blank">2</a> <a href="thread-138143-3-1.html" target="_blank">3</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-52-1.html" class="xg1" target="_blank">كۆڭۈلدىكى سۆز</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-138143-1-1.html" class="xi2" target="_blank">26</a>
+<em>2282</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-%25D8%25B3%25DB%2587%25D9%2584%25D8%25AA%25D8%25A7%25D9%2586%25D9%25891.html" target="_blank">سۇلتانى1</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=138143&amp;goto=lastpost#lastpost" target="_blank">2015-5-2 09:55:10 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> ئەھمىيەتلىك ئىشقا تۇتۇش قىپسىلەر، تېخىمۇ روناق تېپىشى ... <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=137860&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_new.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=137860&amp;pid=2048672" target="_blank">يىپەك يولى ساداسىدىكى مەھمۇد سۇلايمان</a>
+<span class="tps">... <a href="thread-137860-1-1.html" target="_blank">1</a> <a href="thread-137860-2-1.html" target="_blank">2</a> <a href="thread-137860-3-1.html" target="_blank">3</a> <a href="thread-137860-4-1.html" target="_blank">4</a> <a href="thread-137860-5-1.html" target="_blank">5</a> <a href="thread-137860-6-1.html" target="_blank">6</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-52-1.html" class="xg1" target="_blank">كۆڭۈلدىكى سۆز</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-137860-1-1.html" class="xi2" target="_blank">58</a>
+<em>12627</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-rabik.html" target="_blank">rabik</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=137860&amp;goto=lastpost#lastpost" target="_blank"><span title="2015-5-28 02:58:30 PM">ئۈلۈشكۈن&nbsp;02:58 PM</span></a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> دەي دىسە شۇمۇ گەپ ھە؟
+
+ئاجايىپ ئادەملەر بادە <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=137820&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=137820&amp;pid=2047941" target="_blank">رونالدونىڭ بىر يىلدا تاپقان پۇلىنى سىز 2500 يىلدا ئاران تاپالايسىز!</a>
+<span class="tps">... <a href="thread-137820-1-1.html" target="_blank">1</a> <a href="thread-137820-2-1.html" target="_blank">2</a> <a href="thread-137820-3-1.html" target="_blank">3</a> <a href="thread-137820-4-1.html" target="_blank">4</a> <a href="thread-137820-5-1.html" target="_blank">5</a> <a href="thread-137820-6-1.html" target="_blank">6</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-20-1.html" class="xg1" target="_blank">تەنتەربىيە</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-137820-1-1.html" class="xi2" target="_blank">52</a>
+<em>5628</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-11yakan11.html" target="_blank">11yakan11</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=137820&amp;goto=lastpost#lastpost" target="_blank">2015-5-3 02:34:45 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> بۇ تىمىغا ئىنكاس يازغانلار ئىچىدە سىزمۇ باكەنسىز؟
+سى ... <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=134234&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=134234&amp;pid=2046737" target="_blank">مىسرانىم مۇنبىرى كۈندىلىك خاتىرىسى  (4-قىسىم)</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-134234-1-1.html" target="_blank">1</a> <a href="thread-134234-2-1.html" target="_blank">2</a> <a href="thread-134234-3-1.html" target="_blank">3</a> <a href="thread-134234-4-1.html" target="_blank">4</a> <a href="thread-134234-5-1.html" target="_blank">5</a> <a href="thread-134234-6-1.html" target="_blank">6</a>  .. <a href="thread-134234-74-1.html" target="_blank">74</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-52-1.html" class="xg1" target="_blank">كۆڭۈلدىكى سۆز</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-134234-1-1.html" class="xi2" target="_blank">732</a>
+<em>23222</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-xahla117.html" target="_blank">xahla117</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=134234&amp;goto=lastpost#lastpost" target="_blank">2015-5-3 09:00:33 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;</td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=134234&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=134234&amp;pid=2046213" target="_blank">مىسرانىم مۇنبىرى كۈندىلىك خاتىرىسى  (4-قىسىم)</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-134234-1-1.html" target="_blank">1</a> <a href="thread-134234-2-1.html" target="_blank">2</a> <a href="thread-134234-3-1.html" target="_blank">3</a> <a href="thread-134234-4-1.html" target="_blank">4</a> <a href="thread-134234-5-1.html" target="_blank">5</a> <a href="thread-134234-6-1.html" target="_blank">6</a>  .. <a href="thread-134234-74-1.html" target="_blank">74</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-52-1.html" class="xg1" target="_blank">كۆڭۈلدىكى سۆز</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-134234-1-1.html" class="xi2" target="_blank">732</a>
+<em>23222</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-xahla117.html" target="_blank">xahla117</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=134234&amp;goto=lastpost#lastpost" target="_blank">2015-5-3 09:00:33 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;</td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=137707&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=137707&amp;pid=2046210" target="_blank">سەۋىردىن ئىمام  ئىزلار تور رادىيوسىدا سۆھبەتتە</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-137707-1-1.html" target="_blank">1</a> <a href="thread-137707-2-1.html" target="_blank">2</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-100-1.html" class="xg1" target="_blank">رادىئو ساداسى</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-137707-1-1.html" class="xi2" target="_blank">14</a>
+<em>2019</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-5%253A20AM.html" target="_blank">5:20AM</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=137707&amp;goto=lastpost#lastpost" target="_blank">2015-4-22 12:06:26 AM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> قۇيۇلمىدىغۇ؟ <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=137663&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=137663&amp;pid=2045763" target="_blank">يېنىپ كەل~( ئەڭ يېڭى ئىجادى ناخشا)</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-137663-1-1.html" target="_blank">1</a> <a href="thread-137663-2-1.html" target="_blank">2</a> <a href="thread-137663-3-1.html" target="_blank">3</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-30-1.html" class="xg1" target="_blank">ناخشا مۇزىكىلار</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-137663-1-1.html" class="xi2" target="_blank">27</a>
+<em>14558</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-Uqkuni93.html" target="_blank">Uqkuni93</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=137663&amp;goto=lastpost#lastpost" target="_blank">2015-4-18 03:26:25 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> سىزگە مۇۋەپىقىيەت تىلەيمەن! <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=134234&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=134234&amp;pid=2044732" target="_blank">مىسرانىم مۇنبىرى كۈندىلىك خاتىرىسى  (4-قىسىم)</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-134234-1-1.html" target="_blank">1</a> <a href="thread-134234-2-1.html" target="_blank">2</a> <a href="thread-134234-3-1.html" target="_blank">3</a> <a href="thread-134234-4-1.html" target="_blank">4</a> <a href="thread-134234-5-1.html" target="_blank">5</a> <a href="thread-134234-6-1.html" target="_blank">6</a>  .. <a href="thread-134234-74-1.html" target="_blank">74</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-52-1.html" class="xg1" target="_blank">كۆڭۈلدىكى سۆز</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-134234-1-1.html" class="xi2" target="_blank">732</a>
+<em>23222</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-xahla117.html" target="_blank">xahla117</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=134234&amp;goto=lastpost#lastpost" target="_blank">2015-5-3 09:00:33 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;</td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=137560&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=137560&amp;pid=2044664" target="_blank">يىپەك يولى ساداسى (2 - باسقۇچ )(24- سان)</a>
+<img src="static/image/filetype/common.gif" alt="ئىلاۋە" align="absmiddle" />
+<span class="tps">... <a href="thread-137560-1-1.html" target="_blank">1</a> <a href="thread-137560-2-1.html" target="_blank">2</a> <a href="thread-137560-3-1.html" target="_blank">3</a> <a href="thread-137560-4-1.html" target="_blank">4</a> <a href="thread-137560-5-1.html" target="_blank">5</a> <a href="thread-137560-6-1.html" target="_blank">6</a>  .. <a href="thread-137560-17-1.html" target="_blank">17</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-96-1.html" class="xg1" target="_blank">قىسقا فىلىملار</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-137560-1-1.html" class="xi2" target="_blank">160</a>
+<em>29131</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-gvlnigar.html" target="_blank">gvlnigar</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=137560&amp;goto=lastpost#lastpost" target="_blank">2015-4-19 08:30:27 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> بەك گۇمانخور بوپ كىتىپسىز، كىچىك پەرھاتجانمۇ ناخشىنى ... <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=136787&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=136787&amp;pid=2034496" target="_blank">ئاكامنى ياخشى كۆرۈپ قاپتىمەن(2)</a>
+<span class="tps">... <a href="thread-136787-1-1.html" target="_blank">1</a> <a href="thread-136787-2-1.html" target="_blank">2</a> <a href="thread-136787-3-1.html" target="_blank">3</a> <a href="thread-136787-4-1.html" target="_blank">4</a> <a href="thread-136787-5-1.html" target="_blank">5</a> <a href="thread-136787-6-1.html" target="_blank">6</a>  .. <a href="thread-136787-10-1.html" target="_blank">10</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-37-1.html" class="xg1" target="_blank">ھېكايە رومانلار</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-136787-1-1.html" class="xi2" target="_blank">91</a>
+<em>13627</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-adiljan141372.html" target="_blank">adiljan141372</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=136787&amp;goto=lastpost#lastpost" target="_blank">2015-3-31 09:05:43 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> داۋامىنى تىزراق يازسىڭىز بوپتىكەن، قىزىقىپ قالدىم. <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=136688&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=136688&amp;pid=2033574" target="_blank">مىسرانىم تورى ئەپ دېتالى ئېلان قىلىندى</a>
+<img src="static/image/filetype/image_s.gif" alt="رەسىم قوشۇمچە ھۆججىتى" align="absmiddle" />
+<span class="tps">... <a href="thread-136688-1-1.html" target="_blank">1</a> <a href="thread-136688-2-1.html" target="_blank">2</a> <a href="thread-136688-3-1.html" target="_blank">3</a> <a href="thread-136688-4-1.html" target="_blank">4</a> <a href="thread-136688-5-1.html" target="_blank">5</a> <a href="thread-136688-6-1.html" target="_blank">6</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-90-1.html" class="xg1" target="_blank">يانفون دۇنياسى</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-136688-1-1.html" class="xi2" target="_blank">50</a>
+<em>30485</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-dillani.html" target="_blank">dillani</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=136688&amp;goto=lastpost#lastpost" target="_blank">2015-4-17 04:39:06 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> مەنمۇ سىناپ باقاي. <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=136618&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=136618&amp;pid=2033298" target="_blank">شىرىن چۈش پىروگىراممىسى (3- سان )</a>
+<span class="tps">... <a href="thread-136618-1-1.html" target="_blank">1</a> <a href="thread-136618-2-1.html" target="_blank">2</a> <a href="thread-136618-3-1.html" target="_blank">3</a> <a href="thread-136618-4-1.html" target="_blank">4</a> <a href="thread-136618-5-1.html" target="_blank">5</a> <a href="thread-136618-6-1.html" target="_blank">6</a>  .. <a href="thread-136618-10-1.html" target="_blank">10</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-96-1.html" class="xg1" target="_blank">قىسقا فىلىملار</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-136618-1-1.html" class="xi2" target="_blank">94</a>
+<em>15071</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-gulum333.html" target="_blank">gulum333</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=136618&amp;goto=lastpost#lastpost" target="_blank">2015-3-26 01:13:38 AM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> باشقۇرغۇچىلار نىمە ئىش قىلىۋاتقاندۇ. ماۋۇ تىمىدىكى يۈ ... <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=135613&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=135613&amp;pid=2020063" target="_blank">رۇسلان ماركىسى(مۇكاپاتلىق ئەسەر)</a>
+<img src="static/image/filetype/common.gif" alt="ئىلاۋە" align="absmiddle" />
+<span class="tps">... <a href="thread-135613-1-1.html" target="_blank">1</a> <a href="thread-135613-2-1.html" target="_blank">2</a> <a href="thread-135613-3-1.html" target="_blank">3</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-89-1.html" class="xg1" target="_blank">لايىھە رەسىملەر</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-135613-1-1.html" class="xi2" target="_blank">27</a>
+<em>1708</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-warisstyle.html" target="_blank">warisstyle</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=135613&amp;goto=lastpost#lastpost" target="_blank">2015-3-14 11:58:51 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> بۇ لاھىيەلەرياخشى چىقىپتۇ. <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=135442&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=135442&amp;pid=2017491" target="_blank">ئۇلۇغ خۇدا قويدۇم ئۆزەڭگە</a>
+<span class="tps">... <a href="thread-135442-1-1.html" target="_blank">1</a> <a href="thread-135442-2-1.html" target="_blank">2</a> <a href="thread-135442-3-1.html" target="_blank">3</a> <a href="thread-135442-4-1.html" target="_blank">4</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-38-1.html" class="xg1" target="_blank">شېئىرىيەت گۈلزارى</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-135442-1-1.html" class="xi2" target="_blank">37</a>
+<em>3063</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-kaqvr.html" target="_blank">kaqvr</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=135442&amp;goto=lastpost#lastpost" target="_blank">2015-2-25 02:30:09 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> يازغان ھەرقانداق ئەسەرنى ئاپتورغا باغلىۋالماي يازغان  ... <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=135215&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=135215&amp;pid=2015442" target="_blank">«بۈگۈن مەن ئاشپەز» 2- قىسىم دەھشەت قىززىق!</a>
+<span class="tps">... <a href="thread-135215-1-1.html" target="_blank">1</a> <a href="thread-135215-2-1.html" target="_blank">2</a> <a href="thread-135215-3-1.html" target="_blank">3</a> <a href="thread-135215-4-1.html" target="_blank">4</a> <a href="thread-135215-5-1.html" target="_blank">5</a> <a href="thread-135215-6-1.html" target="_blank">6</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-96-1.html" class="xg1" target="_blank">قىسقا فىلىملار</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-135215-1-1.html" class="xi2" target="_blank">50</a>
+<em>7176</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-adip0903.html" target="_blank">adip0903</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=135215&amp;goto=lastpost#lastpost" target="_blank">2015-3-1 07:28:57 PM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> ياخشى چىقىپتىغۇ. ئېلاننى مۇشۇنداق ئىشلىسىمۇ بولىدىكەن ... <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+<tr class="bw0_all">
+<td class="icn">
+<a href="http://bbs.misranim.com/forum.php?mod=viewthread&amp;tid=135249&amp;highlight=" title="يېڭى كۆزنەكتە ئېچىش" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th>
+<a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;goto=findpost&amp;ptid=135249&amp;pid=2015122" target="_blank">تېلېفۇنىڭىزغا ئالاقىداشلىرىڭىزنىڭ سۈرىتىنى چىقىرۋېلىڭ</a>
+<span class="tps">... <a href="thread-135249-1-1.html" target="_blank">1</a> <a href="thread-135249-2-1.html" target="_blank">2</a> <a href="thread-135249-3-1.html" target="_blank">3</a> <a href="thread-135249-4-1.html" target="_blank">4</a> </span></th>
+<td>
+<a href="http://bbs.misranim.com/forum-90-1.html" class="xg1" target="_blank">يانفون دۇنياسى</a>
+</td>
+
+<td class="num">
+<a href="http://bbs.misranim.com/thread-135249-1-1.html" class="xi2" target="_blank">33</a>
+<em>4005</em>
+</td>
+
+<td class="by">
+<cite><a href="http://bbs.misranim.com/space-username-%25D9%2585%25DB%2590%25DA%25BE%25D8%25B1%25D9%2589%25D9%2585%25D8%25A7.html" target="_blank">مېھرىما</a></cite>
+<em><a href="http://bbs.misranim.com/forum.php?mod=redirect&amp;tid=135249&amp;goto=lastpost#lastpost" target="_blank">2015-2-23 10:34:59 AM</a></em>
+</td>
+</tr>
+<tr>
+<td colspan="5" class="xg1">&nbsp;<img src="static/image/common/icon_quote_m_s.gif" style="vertical-align:middle;" /> نىمانچە مۇرەككەپلەشتۈرۋەتكەنسىز. تېلفۇننىڭ ئۈزىدىمۇ  ... <img src="static/image/common/icon_quote_m_e.gif" style="vertical-align:middle;" /></td>
+</tr>
+</table>
+
+</form>
+
+</div>
+<div class="pgs cl mtm"><div class="pg"><a href="http://bbs.misranim.com/home.php?mod=space&uid=91263&do=thread&view=me&type=reply&order=dateline&from=space&amp;page=2" class="nxt">كېيىنكى</a></div></div>
+
+<script type="text/javascript">
+function fuidgoto(fuid) {
+window.location.href = 'home.php?mod=space&do=thread&view=we&fuid='+fuid;
+}
+</script>
+
+</div>
+</div>
+</div>
+<div class="sd"><div id="pcd" class="bm cl"><div >
+<div class="hm">
+<p><a href="http://bbs.misranim.com/space-uid-91263.html"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=91263&size=middle" /></a></p>
+<h2 class="xs2"><a href="http://bbs.misranim.com/space-uid-91263.html">شاتيار</a></h2>
+</div>
+<ul class="xl xl2 cl ul_list">
+<li class="ul_add"><a href="http://bbs.misranim.com/home.php?mod=spacecp&amp;ac=friend&amp;op=add&amp;uid=91263&amp;handlekey=addfriendhk_91263" id="a_friend_li_91263" onclick="showWindow(this.id, this.href, 'get', 0);">دوست بولۇش</a></li>
+<li class="ul_contect"><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=91263&amp;do=wall">سۆز قالدۇرۇڭ</a></li>
+<li class="ul_poke"><a href="http://bbs.misranim.com/home.php?mod=spacecp&amp;ac=poke&amp;op=send&amp;uid=91263&amp;handlekey=propokehk_91263" id="a_poke_91263" onclick="showWindow(this.id, this.href, 'get', 0);">سالاملىشىش</a></li>
+<li class="ul_pm"><a href="http://bbs.misranim.com/home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_91263&amp;touid=91263&amp;pmid=0&amp;daterange=2" id="a_sendpm_91263" onclick="showWindow('showMsgBox', this.href, 'get', 0)">ئۇچۇر يېزىش</a></li>
+</ul>
+</div>
+</div>
+</div></div>
+</div>
+	</div>
+
+
+
+<div id="ft" class="wp cl">
+<div class="wp cl" style="color: #68B;text-align:center;"><a href="/" >مۇنبەر باش بېتىگە قايتىش</a><span class="pipe">|</span><a href="http://bbs.misranim.com/forum.php?mobile=yes" >يانفۇن</a><span class="pipe">|</span><strong><a href="http://bbs.misranim.com/" target="_blank">مىسرانىم مۇنبىرى</a></strong>
+</div>
+&nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=19p9" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"8464807","ui":0,"rt":"home","md":"space","pn":1,"logo":2},"virtualDomain":"bbs.misranim.com","extraParams":""});</script><div class="wp cl" style="text-align: center;direction:ltr;">
+Powered by <strong><a href="http://www.discuz.net" target="_blank" style="color: #68B;">Discuz!</a></strong> <em>X2</em>(<a title="ULP 2011-08-17 23:00 by NurQut Team" target="_blank" href="http://www.nurqut.com" style="color: #68B;">NurQut Team</a>)<span  style="direction: ltr; text-align: right; class="xs0">&copy; 2001-2011 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></span> <span>For <a href="http://bbs.misranim.com" target="_blank" style="color: #68B;"><b> misranim.com</b></a> ( <a href="http://www.miitbeian.gov.cn/" target="_blank">苏ICP备:11007730号</a> )</span>
+</div></script>
+<div id="footer">
+<div class="footer">
+<div align="center">
+
+
+
+<p>
+بېكىتىمىزدىكى يازمىلار شۇ شەخىسنىڭ شەخسىي كۆز قارىشىغا ۋەكىللىك قىلىدۇ،بىكىتىمىز بىلەن مۇناسىۋەتسىز.مۇنبىرىمىز پەقەتلا پىكىر ئالماشتۇرۇش سورۇنى ھازىرلىغان.
+<br>免责声明：本论坛所有来帖仅代表网友个人观点，不代表宝剑网站立场。本站只提供交流平台<br>
+<font color="red">بېكىتىمىز سىياسىيلىقى كۈچلۈك ،سېرىق ھەم دۆلىتىمىز قانۇنىغا زىت بولغان يازمىلارنى چەكلەيدۇ.ئۆزىڭىزنى ئاسراپ ئالدىنىشتىن ھەزەر ئەيلەڭ</font><br>
+<font color="red">本站禁止色情,政治,反动等国家法律不允许的内容，注意自我保护,谨防上当受骗</font><br>
+<font color="blue">مەدەنىيەتلىك تور مۇھىيتى ھازىرلاپ ،ناچار ئۇچۇرلارنى پاش قىلىڭ. QQ:364103 ،E-mail:364103@qq.com، ئىشخانا تېلفونى:13899972729</font>
+<br>文明办网文明上网举报QQ:364103,  举报E-mail:364103@qq.com ,联系电话：0991-13899972729</p>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;&nbsp;<a href="http://www.315rx.com/" target="_blank"><img src="static/image/tupian/zd/calogo.gif"></a><a href="http://www.bj.cyberpolice.cn/" target="_blank"><img src="static/image/tupian/zd/wzdzbs.gif"></a>&nbsp;&nbsp;<a href="http://net.china.com.cn/" target="_blank"><img src="static/image/tupian/zd/one.gif"></a>&nbsp; <a href="http://www.wgwj.gov.cn/" target="_blank"><img src="static/image/tupian/zd/three.gif"></a>&nbsp; <a href="http://www.itrust.org.cn" target="_blank"><img src="static/image/tupian/zd/1.png"></a></p>
+</div></div></div>	</div>
+
+<div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+<div class="tip_c">
+جۇغلانما 0, دەرىجە ئۆسۈش ئۈچۈن  جۇغلانما
+</div>
+<div class="tip_horn"></div>
+</div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1432937800" type="text/javascript"></script>
+<span id="scrolltop" onclick="window.scrollTo('0','0')">چوققىغا قايتىش</span>
+<script type="text/javascript">_attachEvent(window, 'scroll', function(){showTopLink();});</script>
+<script type="text/javascript">attachEvents();</script>
+</body>
+</html>

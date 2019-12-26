@@ -1,0 +1,511 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>.tuz.نىڭ سۆز تاختىسى -  مىسرانىم مۇنبىرى - &#1605;&#1735;&#1606;&#1576;&#1609;&#1585;&#1609; &#1605;&#1609;&#1587;&#1585;&#1575;&#1606;&#1609;&#1605;</title>
+
+<meta name="keywords" content=".tuz.نىڭ سۆز تاختىسى" />
+<meta name="description" content=".tuz.نىڭ سۆز تاختىسى ,مىسرانىم مۇنبىرى" />
+<meta name="generator" content="Discuz! X2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2011 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.misranim.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?9p9" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_home_space.css?9p9" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = '9p9', charset = 'utf-8', discuz_uid = '0', cookiepre = 'gaZi_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ياخشى باھا|,2|مۇنبەر پۇلى|,3|تۆھپە نۇمۇرى|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5taXNyYW5pbS5jb20vaG9tZS5waHA/bW9kPXNwYWNlJnVpZD0zMjQ2JmRvPXdhbGwmcGFnZT00', SITEURL = 'http://bbs.misranim.com/', JSPATH = 'static/js/';</script>
+<script src="static/js/bedit.js?9p9" type="text/javascript"></script>
+<script src="static/js/common.js?9p9" type="text/javascript"></script><script src="static/js/home.js?9p9" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="data/cache/style_1_css_space.css?9p9" />
+<link id="style_css" rel="stylesheet" type="text/css" href="static/space/t1/style.css?9p9">
+<style id="diy_style"></style>
+</head>
+
+<body id="space" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+
+
+<div id="toptb" class="cl">
+<div class="y">
+<a href="http://bbs.misranim.com/member.php?mod=register">تىزىملىتىش</a>
+<a href="http://bbs.misranim.com/member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)">كىرىش</a>
+</div>
+<div class="z">
+<a href="./" title="مىسرانىم مۇنبىرى" class="xw1">مىسرانىم مۇنبىرى</a>
+<a href="http://bbs.misranim.com/home.php?mod=space&amp;do=home" id="navs" class="showmenu" onmouseover="showMenu(this.id);">باش بەتكە قايتىش</a>
+</div>
+</div>
+<div id="hd" class="wp cl">
+<h2 id="spaceinfoshow"><strong id="spacename" class="mbn">
+.tuz.نىڭ ھويلىسى</strong>
+<span class="xs0 xw0">
+<a id="domainurl" href="http://bbs.misranim.com/?3246" onclick="setCopy('http://bbs.misranim.com/?3246', '空间地址复制成功');return false;">http://bbs.misranim.com/?3246</a>
+<a href="javascript:;" onclick="addFavorite(location.href, document.title)">[ساقلانما]</a>
+<a id="domainurl" href="http://bbs.misranim.com/?3246" onclick="setCopy('http://bbs.misranim.com/?3246', '空间地址复制成功');return false;">[كۆچۈرۈش ]</a>
+<a id="share_space" href="home.php?mod=spacecp&amp;ac=share&amp;type=space&amp;id=3246" onclick="showWindow(this.id, this.href, 'get', 0);">[ھەمبەھر]</a>
+<a href="http://bbs.misranim.com/home.php?mod=rss&amp;uid=3246">[RSS]</a>
+</span>
+<span id="spacedescription" class="xs1 xw0 mtn"></span>
+</h2><div id="nv">
+<ul>
+<li><a href="http://bbs.misranim.com/space-uid-3246.html">باش بەت</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=home&amp;view=me&amp;from=space">يېڭىلىق</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=doing&amp;view=me&amp;from=space">خاتىرە</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=blog&amp;view=me&amp;from=space">بلوگ</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=album&amp;view=me&amp;from=space">ئالبوم</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=thread&amp;view=me&amp;from=space">تېما</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=share&amp;view=me&amp;from=space">ھەمبەھر</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=friend&amp;view=me&amp;from=space">دوست</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=wall">سۆز</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=profile">ماتېرىيال</a></li>
+</ul>
+</div></div>
+
+<ul id="navs_menu" class="p_pop topnav_pop" style="display:none;">                                <li id="mn_forum" ><a href="http://bbs.misranim.com/forum.php" hidefocus="true" title="BBS"  >مۇنبەر<span>BBS</span></a></li>                                <li id="mn_home" ><a href="http://bbs.misranim.com/home.php" hidefocus="true" title="Space"  >ھويلا<span>Space</span></a></li>                                                                                <li id="mn_Nc927" ><a href="http://bbs.misranim.com/search.php?mod=forum" hidefocus="true"  >ئىزدەش</a></li></ul>
+<ul id="myspace_menu" class="p_pop" style="display:none;">
+    <li><a href="http://bbs.misranim.com/home.php?mod=space">ھويلام</a></li><li><a href="http://bbs.misranim.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.misranim.com/static/image/feed/friend_b.png) !important">دوست</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&do=thread&view=me" style="background-image:url(http://bbs.misranim.com/static/image/feed/thread_b.png) !important">يازما</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.misranim.com/static/image/feed/favorite_b.png) !important">ساقلىغۇن</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=magic" style="background-image:url(http://bbs.misranim.com/static/image/feed/magic_b.png) !important">جابدۇق</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=medal" style="background-image:url(http://bbs.misranim.com/static/image/feed/medal_b.png) !important">ئوردېن</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=task" style="background-image:url(http://bbs.misranim.com/static/image/feed/task_b.png) !important">ۋەزىپە</a></li>
+</ul>
+<div id="ct" class="ct2 wp n cl">
+<div class="mn">
+<div class="bm">
+<div class="bm_h">
+<h1 class="mt">سۆز تاختىسى</h1>
+</div>
+<div class="bm_c">
+<form id="quickcommentform_3246" action="home.php?mod=spacecp&amp;ac=comment" method="post" autocomplete="off" onsubmit="ajaxpost('quickcommentform_3246', 'return_qcwall_3246');doane(event);">
+<p>
+<span id="comment_face" title="ئىپادە قىستۇرۇش" onclick="showFace(this.id, 'comment_message');return false;" class="cur1"><img src="static/image/common/facelist.gif" alt="facelist" class="vm" /></span>
+</p>
+<div class="tedt mtn mbn">
+<div class="area">
+<div class="pt hm">您需要登录后才可以留言 <a href="http://bbs.misranim.com/member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">كىرىش</a> | <a href="http://bbs.misranim.com/member.php?mod=register" class="xi2">تىزىملىتىش</a></div>
+</div>
+</div>
+<p>
+<input type="hidden" name="referer" value="home.php?mod=space&amp;uid=&amp;do=wall" />
+<input type="hidden" name="id" value="3246" />
+<input type="hidden" name="idtype" value="uid" />
+<input type="hidden" name="handlekey" value="qcwall_3246" />
+<input type="hidden" name="commentsubmit" value="true" />
+<input type="hidden" name="quickcomment" value="true" />
+<button type="submit" name="commentsubmit_btn"value="true" id="commentsubmit_btn" class="pn"><strong>سۆز قالدۇرۇش</strong></button>
+<span id="return_qcwall_3246"></span>
+</p>
+<input type="hidden" name="formhash" value="2f8bb26d" />
+</form>
+                <hr class="da mtm m0" />
+<div id="div_main_content" class="mtm mbm">
+<div id="comment">
+<div id="comment_ul" class="xld xlda"><a name="comment_anchor_28272"></a>
+<dl id="comment_28272_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-3246.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=3246&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=28272&amp;handlekey=reportcommenthk_28272" id="a_report_28272" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-3246.html" id="author_28272">.tuz.</a>
+<span class="xg1 xw0">2014-2-19 04:46 PM</span>
+</dt>
+
+<dd id="comment_28272">ئۇ توخا&nbsp;&nbsp;پاكلان يەكى ئەسسىلام ماركىسىدىكى توخۇلارمىكەن ياكى&nbsp;&nbsp;بىسمىللاھى ئاللاھ ئەكبەر ، دەپ بوغۇزلانغان توخۇلارمىكەن ؟</dd>
+
+
+</dl><a name="comment_anchor_28265"></a>
+<dl id="comment_28265_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-98944.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=98944&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=28265&amp;handlekey=reportcommenthk_28265" id="a_report_28265" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-98944.html" id="author_28265">nurjahan0997</a>
+<span class="xg1 xw0">2014-2-19 04:23 PM</span>
+</dt>
+
+<dd id="comment_28265">تورداشلار،ئەگەر بىر ئىسلام ئېتقادىدىكى دۇكاندار توخۇ گۆشى <br />
+سېتىۋاتقان بولسا ھەم بۇنىڭ مۇسۇلمانچە ئىكەنلىكىگە ئۆزى <br />
+گۇۋاھلىق بەرسە ،بۇنىڭغا قانائەت ھاسىل قىلالماي شۇ <br />
+ئەتراپتىكى 2 ئادەمدىن گۇۋاھلىق سورىسام ئۇلارمۇ ھەم <br />
+مۇسۇلمانچە دەپ گۇۋاھلىق بەرسەبۇ گۆشىنى يېسەم بۇلامدۇ ؟<br />
+<br />
+بىر توردىشىمىز ئېغىزىدىن</dd>
+
+
+</dl><a name="comment_anchor_28166"></a>
+<dl id="comment_28166_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-3246.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=3246&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=28166&amp;handlekey=reportcommenthk_28166" id="a_report_28166" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-3246.html" id="author_28166">.tuz.</a>
+<span class="xg1 xw0">2014-2-16 05:24 PM</span>
+</dt>
+
+<dd id="comment_28166">قەشقەر ھېيتكا ئەتراپىدىكلى ھەممە كىتاپىانىلارنى بىر ئاختۇراي</dd>
+
+
+</dl><a name="comment_anchor_28165"></a>
+<dl id="comment_28165_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-98944.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=98944&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=28165&amp;handlekey=reportcommenthk_28165" id="a_report_28165" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-98944.html" id="author_28165">nurjahan0997</a>
+<span class="xg1 xw0">2014-2-16 05:19 PM</span>
+</dt>
+
+<dd id="comment_28165">كىتاپخانىدا بار،بىراق ئىسمى سەل غەلىتە بولغاچقا ھازىرىغىچە كىشىلەر ئانچە بىلىپ كەتمەيدىكەن،كىتاپخانىدا ئىشلەيدىغان كىشىلەردىن سوراپ تاپىقۇزسىڭىز بولىدۇ<br />
+بىراق يەنىلا مەن تەۋسىيە قىلىمەن،بۇشۇ كىتاپ ئۈستىدە سىز بىلەن ئورتاقلاشقۇم بار قېرىندىشىم،ئاۋارە قىلدىم<br />
+ئۆزۈر............</dd>
+
+
+</dl><a name="comment_anchor_28031"></a>
+<dl id="comment_28031_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-102853.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=102853&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=28031&amp;handlekey=reportcommenthk_28031" id="a_report_28031" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-102853.html" id="author_28031">ئالمىچى</a>
+<span class="xg1 xw0">2014-2-13 04:29 PM</span>
+</dt>
+
+<dd id="comment_28031">ھۆرمەتلىك باشقۇرغۇچى بۇ تىمىنى ئۆچۈرۋەتسىڭىز( بىرلەشمە خەۋەرلىشىش كارتىسىدا چەكسىز تورغا چىقىڭ)</dd>
+
+
+</dl><a name="comment_anchor_27998"></a>
+<dl id="comment_27998_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-3246.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=3246&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=27998&amp;handlekey=reportcommenthk_27998" id="a_report_27998" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-3246.html" id="author_27998">.tuz.</a>
+<span class="xg1 xw0">2014-2-12 05:01 PM</span>
+</dt>
+
+<dd id="comment_27998">ۋەئەلەيكۇم ئەسسىلام ئۇ كىتابنى تاپالمىدىم ، كىتابىانىدا يۇقكەن ،</dd>
+
+
+</dl><a name="comment_anchor_27997"></a>
+<dl id="comment_27997_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-98944.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=98944&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=27997&amp;handlekey=reportcommenthk_27997" id="a_report_27997" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-98944.html" id="author_27997">nurjahan0997</a>
+<span class="xg1 xw0">2014-2-12 04:38 PM</span>
+</dt>
+
+<dd id="comment_27997">ئەسسلامۇ ئەلەيكۇم قېرىندىشىم ،مۇھەممەد ئەھمەد چوپانىنىڭ&nbsp; &nbsp; سەمەندەر&nbsp; &nbsp; ناملىق رومانىنى ئوقۇپ بېقىشىڭىزنى يەنە تەۋسىيە قىلىمەن</dd>
+
+
+</dl><a name="comment_anchor_27557"></a>
+<dl id="comment_27557_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-98969.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=98969&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=27557&amp;handlekey=reportcommenthk_27557" id="a_report_27557" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-98969.html" id="author_27557">yultuzay0997</a>
+<span class="xg1 xw0">2014-1-28 12:02 PM</span>
+</dt>
+
+<dd id="comment_27557">ئۇ كىتاپ ئادەتتىكى كىتاپخانىلاردا بار</dd>
+
+
+</dl><a name="comment_anchor_27547"></a>
+<dl id="comment_27547_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-3246.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=3246&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=27547&amp;handlekey=reportcommenthk_27547" id="a_report_27547" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-3246.html" id="author_27547">.tuz.</a>
+<span class="xg1 xw0">2014-1-27 11:57 AM</span>
+</dt>
+
+<dd id="comment_27547">ئەسسىلامۇ ئەلەيكۇم ، مەن باشقۇرغۇچى ئەمەس ، سىز تەۋسىيە قىلغان كىتاپنى نەدىن تاپىمەن ؟ كىتاپخانىلاردا بارمۇ ؟</dd>
+
+
+</dl><a name="comment_anchor_27533"></a>
+<dl id="comment_27533_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-98969.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=98969&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=27533&amp;handlekey=reportcommenthk_27533" id="a_report_27533" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-98969.html" id="author_27533">yultuzay0997</a>
+<span class="xg1 xw0">2014-1-26 08:11 PM</span>
+</dt>
+
+<dd id="comment_27533">ئەسسلامۇ ئەلەيكۇم قېرىندىشىم ،مەن سىزگگ سەمەندەر ناملىق كىتاپنى تەشۋىق قىلغان نۇرجاھان بولىمەن ،بۇ ئاچامنىڭ تىزىم نۇمۇرى<br />
+مېنى چەكلەپ قويۇپتۇ،بىراق نېمە سەۋەپلىكىنى ئەسكەرتمەپتۇ،ھېچ كاللامدىن ئۆتمەيدۇ،بىرەسى بىلەن تىللىشىپتىمەنمۇ ياكى ......سىزمۇ مۇنبەر باشقۇرغۇچىسىغۇ دەيمەن،شۇڭا قاراپ باقسىڭىز<br />
+مەن مېنى ئەسلىگە كەلتۈرۈپ قويۇڭ دېمەيمەن بىراق سەۋەپسىزلا شۇنداق قىلسا......راستىنلا ئىچىم ئاچچىق بولىۋاتىدۇ........<br />
+قاراپ باققايسىز<br />
+ئىشقىلىپ بۇ مۇنبەرگە شۇنداق مېھرىم بار ئىدى،ئەپسۇس،بۇنداق ھاقارەتكە قالارمەن دەپ ئويلاپمۇ باقماپتىمەن......</dd>
+
+
+</dl><a name="comment_anchor_27439"></a>
+<dl id="comment_27439_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-98944.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=98944&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=27439&amp;handlekey=reportcommenthk_27439" id="a_report_27439" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-98944.html" id="author_27439">nurjahan0997</a>
+<span class="xg1 xw0">2014-1-22 08:09 PM</span>
+</dt>
+
+<dd id="comment_27439">ئەسسلامۇ ئەلەيكۇم قېرىندىشىم ،مۇھەممەد ئەھمەد چوپانىنىڭ&nbsp; &nbsp; سەمەندەر&nbsp; &nbsp; ناملىق رومانىنى ئوقۇپ بېقىشىڭىزنى يەنە تەۋسىيە قىلىمەن،چوقۇم بىر ئوقۇپ باققان بولسىڭىز...چوقۇم.............<br />
+بۇ توغرىسىدا سىز بىلەن پىكىر ئورتاقلىقىدا بولغۇم بار ئىدى قېرىندىشىم.....چوقۇم بىر ئوقىسىڭىز</dd>
+
+
+</dl><a name="comment_anchor_27268"></a>
+<dl id="comment_27268_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-98944.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=98944&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=27268&amp;handlekey=reportcommenthk_27268" id="a_report_27268" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-98944.html" id="author_27268">nurjahan0997</a>
+<span class="xg1 xw0">2014-1-16 05:31 PM</span>
+</dt>
+
+<dd id="comment_27268">ئەسسلامۇ ئەلەيكۇم قېرىندىشىم ،مۇھەممەد ئەھمەد چوپانىنىڭ&nbsp; &nbsp; سەمەندەر&nbsp; &nbsp; ناملىق رومانىنى ئوقۇپ بېقىشىڭىزنى يەنە تەۋسىيە قىلىمەن،چوقۇم بىر ئوقۇپ باققان بولسىڭىز...چوقۇم.............</dd>
+
+
+</dl><a name="comment_anchor_26905"></a>
+<dl id="comment_26905_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-101369.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=101369&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=26905&amp;handlekey=reportcommenthk_26905" id="a_report_26905" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-101369.html" id="author_26905">alnure.com</a>
+<span class="xg1 xw0">2013-12-31 08:19 PM</span>
+</dt>
+
+<dd id="comment_26905">ئەسسالامۇ ئەلەيكۇم،قېرىندىشىم&nbsp; &nbsp;&nbsp; &nbsp; ئەلنۇرى مۇنبىرىگە قادەم تەشرىپ قىلىشىڭىزنى قارشى ئالىمىز&nbsp; &nbsp; <a href="http://alnure.com/portal.php" target="_blank">http://alnure.com/portal.php</a></dd>
+
+
+</dl><a name="comment_anchor_26518"></a>
+<dl id="comment_26518_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-98944.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=98944&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=26518&amp;handlekey=reportcommenthk_26518" id="a_report_26518" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-98944.html" id="author_26518">nurjahan0997</a>
+<span class="xg1 xw0">2013-12-18 04:14 PM</span>
+</dt>
+
+<dd id="comment_26518">ئەسسلامۇ ئەلەيكۇم قېرىندىشىم تەڭتۇشكەنمىز ،قايىلمەن جۇمۇ سىزگە.كىتاپ ئوقۇش قىزغىنلىقى توغرىسىدا گەپ ئېچىپ قالدىڭىز،سىز مۇھەممەد ئەھمەد چوپانىنىڭ&nbsp; &nbsp;سەمەندەر&nbsp; &nbsp;&nbsp;&nbsp;ناملىق رومانىنى ئوقۇپ باققانمۇ؟ئۆزلەنىڭ يۇرتىنى سورىسام مالاللىق بولارمۇ؟شۇ رومان توغرىسىدىكى بايانىڭىزدىن ماڭا ئۇچۇر بەرگەن بولسىڭىز سىزدىن تولىمۇ مەمنۇن بولاتتىم</dd>
+
+
+</dl><a name="comment_anchor_16065"></a>
+<dl id="comment_16065_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-3246.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=3246&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=16065&amp;handlekey=reportcommenthk_16065" id="a_report_16065" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-3246.html" id="author_16065">.tuz.</a>
+<span class="xg1 xw0">2013-2-14 02:06 PM</span>
+</dt>
+
+<dd id="comment_16065">سىنى تۇققان ئاناڭنىڭ ھالىغا ۋاي ! بىچچارە ئاناڭ زۇۋانىڭنى ئادەم تىللا دەپ ئىغىزلاندۇرغان بولغىمىتى سىنى !! ئادەم تىللاشقا ئاجايىپ تالانتىڭ باركەن مۇجۇمەل گۇي !!! مۇشۇ ھاقارەتلىرىڭگە جاۋاپ قىلماسسەنمۇ ؟! سىنىڭ ئەسلى كۆزۈڭ قارا ئەمەس ،دىلىڭ قارىكەن ئەمەسمۇ ؟! دىلى قارا ئادەم دېگەن ياخشىنى يامان ، ياماننى ياخشى دەيدۇ !!! ساڭا ھەرقانچە ياخشى گەپ قىلسىمۇ بىكاركەن ، چۈنكى قۇلقىڭ پاڭ ھەقنى ئاڭلىمايسەنكەن كۆزڭ كۆر ياخشىنى كۆرمەيسەنكەن!دىلىڭ قارا ،تىلىڭ زەھەر كۆرلمەستىن ،ھەسەتتىن ،ئىچىڭ تارلىقىدىن ،پۈتۈن ۋۈجۇدۇڭنى ئىپلاسلىق قاپلاپ كەتكەن بىر سىسىق ۋىرۇسكەنسەن ! مۇسۇلمان دېگەن سەندەك ئادەم تىللامدۇ ؟! سەندەك تىلى زەھەر گۇينىڭ يىڭى قۇرئان تەرجىمىسىگە ، باھا بىرىش سالايىتىڭ بارمۇ ؟! <br />
+ئاشۇ ھەزلەك خىنىم مىجەز...... دېگەن ھاقەرتلىرىڭگە لايىغىدا جاۋاپ قايتۇرسام ھەمشىرە ئاچا - سىڭىللىرىڭغا ئۇۋال بولماسمۇ ؟! سەندىغۇ ئۇنچىلىك غۇرۇر يوقتەك ! ۋىجدان غۇرۇرۇڭ بولسا ، ئەركەكلىكى ئۇرغۇپ تۇرغان بىر كىشىنى ھەزلەك ، خىنىم مىجەز دىمەس ئىدىڭ !!! ناۋادا بۇ قارشىڭدا چىڭ تۇرۋالساڭ ، ئۆلچەمگە لايىق ھەمشىرىلىرىڭ بولسا ،سىنىتىپ تەكشۈرۈپ تەتقىق قىلدۇرۇپ باق ، ھەزلەكمىكىن ! ئەركەكمىكىن !! سېنىڭ دىگىنىڭ ھىساپ ئەمەس ، شۇلارنىڭ ھېساپ ! سۇنىڭ چوڭقۇر دڭلىكىنى ،سۈغۈق يىلىمانلىقىنى سۇغا كىرىپ باققان ئادەم ئۆزىلا بىلىدۇ !!! مىسالغا ئىلىپ ساڭا كۆرسىتىپ قويدۇم باشقىلارنى ھەزلەك&nbsp;&nbsp;دىسەڭ ئاشۇنداق ئۆزەڭگە يانىدۇ . بۇندىن كېيىن ئۇنداق دىمەيدىغان بولاسەن شەرمەندە گۇي !!! <br />
+ھە مېنى سۇرۇشتۇرگىنىڭ ياخشى بوپتۇ ، تىخمۇ ئىنچىكىلەپ سۇرۇشتە قىل !!قانداقلىقىمنى تىخىمۇ ياخشى بىلسەڭ ، پەسكەش زۇۋانىڭنى يىغىپ قالارسەن !! مەن ئۆز ھالال كۈچۈمگە تايىنىپ ، قىشنىڭ قەھرىتان سوغۇقلىردا ،يازنىڭ تومۇزدەك ئىسسىقلىردا جاپىلىق ئىشلەپ تۇرمۇش ھالالدىن پۇل تىپىپ ئاللاھنىڭ بەرگىنىگە شۈكرى قىلىپ ھايات كەچۈرۋاتقان ئاددى بىر مۇسۇلمان ئۇيغۇرمەن !!! <br />
+سۈرۈشتۇردۇم دەپ ماڭا تەھدىت سالغىنىڭمۇ بۇ ؟! مەن سەندەكبىر چۇپرەندە جەندىكەش مۇجۇمەل داۋراڭچى گۇيدىن زەررىچە قورقۇپ كەتمەيمەن !!!قىشىمدا بولغان بولساڭ ئىنسان قىلپىدىن چىققان ھاقەرەتكە تولغان سىسىق تىلىڭ يىرىڭداپ كەتكەن شۇم ئىغىزىڭغا تازا سىلىپ ئەدىۋىڭنى بىرەتتىم .... خەير <br />
+ئاللاھ بەرسۇن جاجاڭنى ~~~~~</dd>
+
+
+</dl><a name="comment_anchor_16052"></a>
+<dl id="comment_16052_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-90532.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=90532&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=16052&amp;handlekey=reportcommenthk_16052" id="a_report_16052" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-90532.html" id="author_16052">seddichin</a>
+<span class="xg1 xw0">2013-2-13 11:48 PM</span>
+</dt>
+
+<dd id="comment_16052">ھەي كومپارتىيەدىن خۇي، خەنزۇدىن بوي ئالغان كاززاپ يالغانچى، چاغاندا چوشقا گۆشىدىن قىلىنغان تۈگرىلەرنى جېق يەۋېلىپ كاللاڭ چۆلدەرەپ قالغان چېغى سەن شۇمبۇيانىڭ. نىمانداق ئايناپ كېتىسەن ھە؟بېشىڭدىكى چىۋىننى قورىساڭچۇ باشقا ئىشنى قويۇپ. ھەزىلەكلىكىڭنى يۇغۇشتۇرىۋال. يىپ بازىرىدىكى تول خوتۇندەك قىلىق قىلماي. گىپىڭدىن ئوغۇل بالىنىڭ پورىقى كەلسە كىمنىڭ دەردى خومسى! قانچە سەكرىگىنىڭ بىلەن ئۆز ئىزىڭغا چۈشۈۋاتىسەن شۇمپەن!ئۆزىنى بىلمەيدىغان خېنىم مىجەز قېتىغۇر نامەرت. رىياخورلۇقىنى خېلى ئوبدان قاملاتۇرىدىكەنسەن چوكان قىلىق پەسكەش چۈپرەندە. سۈرۈشتۈرپ كۆردۈم،&nbsp;&nbsp;تەقۋالقىڭنى پەش قىلىپ ئۆزۈڭنى پەردازلاپ ھىيلىگەرلىك قىلىپ يۈرسەڭ قايسى تاشلاندۇق مازارنىڭ ۋەيرانە ئېتىكاپخانىسىدا ۋاسا ساناپ شىلاڭ تەلمۈرۈپ ياتقان تەمەخور دەرۋىشكى دىسەم، ناھايىتى بىر سايىسى ئۆزىدىن ئاشمايدىغان كوچا چىڭداپ يۈرگەن، قورسىقىدىن چوڭ غېمى يوق، يۇندا مايلىرىدا ئەقلى بولغۇنۇپ ئەقلى گەژگىسىگە ئۆتۈپ قالغان ساياق ئىكەنسەنغۇ!لەنەتكەردى يالغانچى، تاھەرەت بىلەن ئىنكاس يازىمەن دېگەن ياسالمىلىقىڭ تەرەت قىلىپ تۇرۇپ يازىمەن دېگەىنىڭ ئوخشايدۇ رىياكار نامەرت. شۇنچە قەبىھ سۆزلىرىڭنى ھاقارەت بىلمەي نىمە دەپ بىلىسىەن ئۈزۈڭ! ئەسكى ئۆزىنى بىلمەس دېگەن مۇشۇدە. قارىغاندا ئادەم ئارىسىدا ئەمەس، ھايۋان ئارىسىدا تەربىيەلەنگەن ماڭقۇرت ئىكەنسەن!( ماڭقۇرتنىڭ نىمىلىكنى بىلسەڭ ئىدىڭ، مۇشۇ گەپنىڭ ئۆزى سىنىڭ بارلىق خۇيلىرىڭنى كۆرسىتىپ بېرىشكە يېتەرلىك ئىدى. ئەمما سەن ناداندا بۇنى بىلگۈدەك كاللا كوھىقاپنىڭ تورىدە تېخى ) تۈزۈك بىر ئېغىز ئۇغۇل بالىدەك گىپىڭ يوق چوكان خۇيلۇق پايتما لىڭتاسما، داۋاملىق بىلمەيدىغان نەرسەڭ ئۈستىدە گەپ يورغىلىتىپ مەمەدانلىق قىلىۋاتىسەن. يەنە ئۆزۈڭنى بىلمەي غىتمەكلىك قىلىپ يۈرىسەن لالما گۇي. ھەي بىقارار شۇمبۇيا، سىنىڭ تەرجىمە قىلغۇچىلارنى بېسىپ چۈشكۈدەك بىلىمىڭ يوق. ئەمما ئىنكاسلارنى بېسىپ چۈشكۈدەك بىلىمىڭ بار، شۇنداقمۇ؟ سەن ئۇنى قانداق بىلدىڭ؟ تەرجىمانلارغا بۇنچىۋىلا چاپان يايمىساڭمۇ ھۆكۈمىتىڭنىڭ ياپقىنى يېتەرلىك ئىدى. سەن ئولار ھەققىدە بېسىپ چۈشكۈدەك بىلىمىم يوق دەپ گەپ قىلمايسانۇ، باشقىلار ھەققىدە چوڭ - چوڭ ھۈكۈملەرنى چىقىرىشتىن يانمايسەن؟نەدىكى شاپاق غاجاپ قالغان بۇلۇڭ چۈپرەندىسى سەن؟ بۇ سەندىكى قانداق مەنتىقە ئەمدى؟ سىنىڭ مەيدانىڭ بارمۇ ياكى جانباقتىلىقنى مەپكۈرە قىلغان پارنىك توغۇندىسىمۇ؟نادانلىقى جاھالەتكە سۆرەۋەتقان بىچارە بايقۇش. بوپتۇ. ئەلشىر نەۋايى دېمەي مەھمۇد قاشغەرى دەپ سالغان بولاي. ( خاتىرەڭنى جەم قىل. مۇشۇ ئۇلۇغلارنىڭ نەشىر قىلىنغان دىۋانلىرىغا ئوبدان قارىساڭ پىقىرنىڭ ئىسمىنى كۆرەلەيسەن. شۇڭا بۇ ھەقتە مىنى بىلىمسىز دەپ ئاھ ئۇرۇپ كېتىشىڭنىڭ زۈرۈرىيىتى يوق. ) ئەمما سەن ئولارنى كۆرگەنمۇ؟بۇ رەسىم شۇ شەخىسنىڭ رەسىمىمۇ؟نىمە تەڭلىسە شۇنى سۈرۈشتۈرمەي ھەشقاللا دەپ قوبۇل قىلىدىغان ماڭقۇرت، ئۇ پەقەت رەسسامنىڭ خىيالىدىكى بىىر ئوبرازغۇ ئاخىر؟نادانلىقىڭ شۇ دەرىجىدە جاھىل. يەنە كېلىپ پەيغەمبىرىىمىز جانلىقنڭ رەسىمىنى سىزغۇچىنىڭ ئاقىۋىتى ھەققىدە ئاگاھلاندۇرغانىدىغۇ؟ جانلىقنڭ رەسىمىنىڭ سىزىلىشىغا ئۈلۈش قوشۇپ گۇناھقا شىرىك بولىۋاتقان كاج ماڭقۇرت، قىلمىشىڭنى بىر ئاز ئوڭشىۋالساڭ نىمە بولار؟سىنىڭدىنغۇ بۇنداق ئىشنى كۆتكىلى بولمايدىكەن. بەلكىم بۇ ھەقتىمۇ پەتىۋايىڭ تەييار ھەقىچان سىنىڭ .ئۆزۈڭنىڭ كۆڭلىنى قاغىلارنىڭ قاق ئېتىشىدەك ئۆزى بىلەن خوش قىلىپ يۈرگەن تېتىقسىز گۈدەك. قىزىل تەشۋىقاتلارغا قول قۇۋۇشتۇرۇپ كۈنۈپ قالغان مەيدانى يوق تېجىمەل، ئېغىزىڭ بىلەن كۈتۈڭنىڭ پەرقى بولسۇن. يالغانچىلىقىنى بىزگە ئەمەس، تىيەن ئەنمىنگە تەلپۈنۈپ تۇرغان ئاشۇ خىللىرىڭغا دەپ بەر. <br />
+ئەمدى نىمە دىسەڭ دە، قانداق تۆھمەتلىگۇڭ كەلسە يولۇڭ ئوچۇق. بۇ ساڭا يېزىلغان ئاخىرقى خەت. ياسالما، يالغانچىلىقنى، نۇمۇسسىز كاززاپلىقنى ئۆزىگە خۇي قىلىۋالغان سەندەك كاللىسى سەپسەتىلەر بىلەن تۇشۇپ كەتكەن شۇمپاللارغا زايا بولغان ۋاقتىمغا ئىسىت! شۇنچە نادانلارچە تەكەببۇرلۇقۇڭ، باغدىن دېسە تاغدىن قىلىۋاتقان تاققا - تۇققا سۆزلىرىڭ سىنىڭ بىلىمسىز، ھېچنىمىگە ئەرزىمەس بىر شۇم ئىكەنلىكىڭنى ئىسپاتلاپ تۇرۇپتۇ. بىلىمسىزمەن دەپ تۇرۇپ قىلغان پەتىۋالىرىنىڭ، دىن نامىدىن قىلىۋاتقان يالغانچىلىقىڭ سىنىڭ يولدا قالسا ئىشەك سىيىپمۇ قويمايدىغان ئەخلاقسىز شۇمبۇيالىقىڭنى كۆرسىتىپ تۇرۇپتۇ. يالغاندىن ئاللاھ يولىنى تۇتىۋالغان، ئاللاھنىڭ يولىنى بىلمەي ياسالمىلىق تونىغا ئورىنىۋېلىپ ئاللاھ دەپ ۋەزخانلىق قىلىدىغان ئىنسانلارنىڭ ئەڭ پەسكەشلىرىنىڭ ئاللاھقا مۇلاقەت بولغاندىكى ھالىغا ۋاي. « ئولار ئۆزلىرىنى توغرا يولدا دەپ گومان قىلىدۇ. ھالبۇكى.....» (دەپ قوياي:بۇ ئايەت. قالايمىقان تىررىق چىقىرىپ يۈرمە بۇ ھەقتە.سىنىڭ قېتىغور مىجەزىڭدىن ئەنسىرەپ قالدىم. بۇ ئەلپازىڭدا ئايەت، ھەدىس دېگەننى كۆزگە ئېلىپ قويمايدىغاندەك قىلىسەن! سەللامنا دېيىشكە تىلىڭ بارمىسىمۇ، ئۇنىڭ ھەققىدە بولمىغۇر گەپلەردىن تىلىڭنى تارت!) <br />
+خەير، ئۆزۈڭنىڭ شورى!</dd>
+
+
+</dl><a name="comment_anchor_15982"></a>
+<dl id="comment_15982_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-3246.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=3246&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=15982&amp;handlekey=reportcommenthk_15982" id="a_report_15982" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-3246.html" id="author_15982">.tuz.</a>
+<span class="xg1 xw0">2013-2-13 02:58 PM</span>
+</dt>
+
+<dd id="comment_15982">مەن نادان بولسام ،سەن جايىل گۇيتۇزىكەنسەن !!! ناداندىن جايىل يامان ! سەن تخى باش سۈرتۈمدىكى ئەجداتلىرمىزنىمۇ تونىمايدىكەنسەن ! ھەي جايىل گۇي ؟! باش سۈرتۈمدىكى مەخمۇد كاشكىرىما ؟؟؟؟&nbsp;&nbsp;ئىسىت ساڭا ۋاقتىمنى زايە قىلىپ يازغان چۈشەندۈرۈشلىرىم !!! سېنىڭ ھالىڭغا ۋاي ! ھالىڭغا ۋاي !! <br />
+ساڭا پەيغەمبىرمىز مۇھەممەد ئەلەيھىسالام سەللالاھۇ ئەلەيھى ۋەسسەللەمنىڭ مۇنۇ ھەدىسىنى تەۋسيە قىلاي : <br />
+كىشىلەرنىڭ مۇسۇلمان قېرىندىشىنى كەمسىتىشى ئۇنىڭ يامان ئادەم ئىكەنلىكىگە يېتەرلىكتۇر ، بىر مۇسۇلمننىڭ يەنى بىر مۇسۇلماننىڭ قېنىغا ، ئابرۇيىغا چىقىلىشى ھارامدۇر . ئاللاھ سىلەرنىڭ تەن قۇرلۇشۇڭلىغا ، سۈرەتلىرىڭلارغا ،ئىش -ھەركىتىڭلارغا قارىمايدۇ ،لېكىن سىلەرنىڭ قەلبىڭلارغا قارايدۇ . (بۇخارى مۇسلىم رىۋايەت قىلغان ) <br />
+<br />
+سەن دەسلەپتە ماڭا ھاقارەت&nbsp;&nbsp;قىلدىڭ ، ھاقارىتڭگە ياخشى خىسلەت بىلەن ئاللاھنىڭ سالامى بىلەن چىرايلىق رەۋىشتە جاۋاپ قايتۇرسام يەنى ئابرويۇمغا كىشىلىك قەدىر قىممىتىمگە ھاقەرەت قىلدىڭ !! مەن بىراۋنىڭ مۇسۇلمانلىقىغا تون پىچقىنىم يوق ! پەقەتلا سەن مۇجۇمەل گۇينىڭ ھاقارىتىگە قارىتا ، مۇسۇلمان دىگەن باشقىلارنى ھاقارەتلەمدۇ ؟! دەپ سۇئال تاشلاش ئارقىلىق ساڭا چۈشەنچە بەردىم !! تولىمۇ ئەپسۇس ، سەن چۈشەنچە ھاسىل قىلماي ، يەنى ئۆزەڭنىڭ مەيلىچە پىكىر قىپسەن ! ھەي ئاللاھنىڭ بەندىسى ، مېنىڭ دىگىنىم ، ئىلگىرى سۈرگىنىم ، قۇرئان خەتمىدىن ئۆتمىگەن كىشىلەرنىڭ شەرىئەتتىن تون پىچىپ سۆزلىشى جايىز ئەمەس دىدىم . ( بۇنىڭغا قايىل بولمىساڭ سەن ئىتىراپ قىلدىغان ئۆلىمالاردىن سوراپ باق ) بۇ پەقەت قوڭىنى يۇماي تاماكىنى توغرا چىشلەپ شەرىئەتكە «ھۆكۈم » چىقىرۋاتقان ئىنكاسچىلىغا قارتىلغان سۆز ! مەن ھېچقاچان يىڭى قۇرئان تەرجىمىسىگە قاتناشقان كىشىلەرگە قارىتا پىكىر قىلمىدىم ! چۈنكى مەندە ئۇلارنى بىسىپ چۈشكىدەك ئىلىم يوق !!! مەن تەرجىمىگە قاتناشقان كىشىلەرنى يا ماختىمىدىم ، يا تەنقىتلىمىدىم ! بۇ نۇقتىنى ئايدىڭلاشتۇرۋال !!! <br />
+ئەمدى پۇشايماننىڭ تۆۋبىنىڭ گىپىنى قىپسەن ؟! مەن بىر بەندە ، ئىنسان ، ئىنسان دېگەن ئازغۇچى ، خاتالىق ئۆتكۈزمىدىم دىيەلمەيمەن .سەن سەۋەبلىكمۇ بىرمۇنچە ساڭا قاتتىق گەپ قىلىپمۇ سالدىم . لېكىن جانابى ئاللاھدىن تۆۋبە قىلىپ كەچۈرۈم سوراپ ئەپۇ قىلۋىتىشىنى ئۈتۈندۈم ، ھەجىبا سەن گۇي بىر كەچۈرۈم ھەم تۆۋبەمنىمۇ ، بىر بەندە تۇرۇپ ، شۇنىڭغىمۇ ھەسەت قىپسەن !! مەن جانابى ئاللاھتىن كەچۈرۈم سوراپ تەۋبە قىلغان ئەمەسمىتىم ؟!پۇشايمان قىلغانتىمغۇ ؟! ھەجىبا سەن مېنى ھاقارەت قىلغىنىڭغا پۇشايمان قىلمىدىڭغۇ ؟! تىخى پۇشايماننىڭ گىپىنى قىلىپ گەپ يورغۇلۇتپسىنا ؟! ئىنكاسىڭدا پەيغەمبىرمىز دەپ ئاپتىكەنسەن ، مەن پەيغەمبەرمىزنىڭ مۇبارەك ئىسمىنى تىلغا ئالغىنىمىزدا ياكى يازغىنىمىزدا پەيغەمبەر ئەلەيھىسالام يەنى «ئەلەيھسىلام» نى قوشۇپ دەيمىز دەپ ساڭا توغرىنى يەتكۈزۈپ قويساممۇ شۇنى قۇبۇل قىلماي يەنى بىرمۇنچە ۋەز ئىيتىپ كىتىسىنا ؟~! پەيغەمبەر ئەلەيھىسالامنىڭ مۇبارەك ئىسمى يىقىملىق تۇيۇلغاچقا ساڭا توغرىنى تەۋسىيە قىلغانتىمغۇ ؟! <br />
+قەلبىمدىكىنى سەن بىلمەيسەن ، جانابى ئاللاھ بىلىدۇ . تولا ماڭا تون پىچما ، مەنساڭا يەنى شۇنى تەكىتلەپ قوياي ،مەن ئاللاھنىڭ ھەقلىكىگە ئىمان ئىيتىپ لائىلاھە ئىللەللاھۇ مۇھەممۇدۇن رەسۇلۇللا دەۋەتقان ، بەش نامازنى ئوقۇۋاتقان ، روزى -رامىزاننى تۇتۋاتقان ئەلھەمدۇلۇلىللا مۇسۇلمادۇرمەن .شۇڭلاشقا گەپ سۆزۇڭگە بەك دىققەت قىل ! ئىتىقادىمغا ،ئىمانىمغا تاقىشىدىغان سۆزنى قىلما !! سۆلىرىمدىن تىلىمنى بىلگىنىڭ بىلەن ، دىلىمنى ھەرگىز بىلمەيسەن !!!<br />
+مەن ساڭا ئوخشاش باشقىلارن ھاقارەتلىمەيمەن تىللىمايمەن ! چۈنكى مەن سەن ئەمەس !! بىلگىننى سۆزلىگەن ناتىق ئەمەس ! سۆزلەۋاتقىنىنى&nbsp;&nbsp;بىلگەن ناتىق !!! <br />
+ئۆزەڭ ئاجىز بولغاچ بەك ھاياجانلىنىدىكەنسەن ! سۆزىڭنىڭ ئىتىبارى ئەمىلىيەتكە ئۇيغۇلىقىدا ! جىق بىلگەن ئاز سۆزلەيدۇ ! بىر تەرەپلىمە ئويناپ سۆزلىمەي ھەر تەرەپلىمىدىن ئويلاپ سۆزلەرسەن !!!! <br />
+<br />
+دۈشمەنلەشمەڭلار ، ھەسەت قىلىشماڭلار ، تەتۈر قارشىپ يۈرمەڭلار ، مۇناسىۋەتنى ئۈزۈشمەڭلار ئاللاھنىڭ قېرىنداش بەندىلىرى بولۇڭلار . (بۇخارى مۇسلىم رىۋايەت قىلغان )</dd>
+
+
+</dl><a name="comment_anchor_15918"></a>
+<dl id="comment_15918_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-90532.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=90532&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=15918&amp;handlekey=reportcommenthk_15918" id="a_report_15918" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-90532.html" id="author_15918">seddichin</a>
+<span class="xg1 xw0">2013-2-13 12:02 AM</span>
+</dt>
+
+<dd id="comment_15918">سىنى بىلىمسىز ئوخشايدۇ دىسەم، ئۇنىڭدىن ئۆتە تەنتەك،جاھىل بىر نىمە ئىكەنسەن! پوتاقچى ! خۇدانىڭ ھۆكمىگە سەللامنا دېيىشنى بىلمەيسەن، يەنە مەن خۇدا يولىدىكى ئادەم دەيسەن. بورۇنقى پەرىزىم ئەجەپ توغرىكەن. سەندىكى بۇ مىجەز قاندامۇ ئىسلام بىلەن بىرىكىپ قالغاندۇ؟قارىغاندا ئاپاق خوجا دەۋرىدىن قالغان ساراڭ قېتىش قۇسۇرچى تالىپچاقكەنسەن! بىر ئىشنى سەن قىلمىدىم دېگەنگە مەسئولىيەتتىن قوتۇلالمايسەن. سىنىڭ قىلغانلىرىڭ ھەقىقەتەن ناداننىڭ ئىشى. بوپتۇ،ئۆزەڭنى بىلەلمىگەندىن كىيىن، خۇدانىڭ ھۆكمىنى كۈت. سەندەك قېتىغور ئىنساننى تۇنجى كۆرۈشۈم! شۇنچە ئورۇنلۇق، توغرا گەپ قىلسام ( تېخى بېشىدىلا بۇ نەسىھەت ھەپ ئەسكەرتكەن ئىدىم ) قىلىۋاتقان گەپلىرىڭنى قارا! توردىكى ئەپتىڭ بىلەن بۇ يەردىكى ئەپتىڭ پەقەتلا ئوخشىماي قالدىغۇ؟ ياسالما؟ مەن چايناپ بەرگەن گەپنى ماڭا دەپ بەرمىسەڭمۇ بولىدۇ. ئۆزۈڭدىن سورا بۇنى. سەندە خىجىل، نۇمۇس دېگەن ئاڭدىن ئەسەر يوق ئوخشايدۇ. تورنىڭ ئارقىسىدا مۈكۈپ يۈرگىنىڭ بىلەن خۇدا ھەردائىم سىنى كۆرۈپ تورىدۇ. ئۇنىڭ كۆرۈشىدىن قېچالمايسەن. بۇنى بىلىدىغانسەن؟ئەجەبا دېگىنىم خاتامۇ؟ بىراۋنى قالايمىقان مۇسۇلمانلىق توغرىسىدا ئەيىبلىمە دەپ. بىلىمسىزلىق جاھالىيەتكە ئەڭ يېقىن. قىلغانلىرىڭ ھېلىمۇ يېتەر. ئويلاپ باق: سەن مۇسۇلمانلار قورئان تەرجخمەسى توغرىسىدا پىكىر بايان قىلسا، تەتۇر سەكرەپ بۇ ھەقتە قورئان خەتمىدىن ئۆتمىگەنلەر بۇ ھەقتە پاراڭ قىلسا خاتا دەپ ( بۇ گىپىڭنىڭ قانچىلىكى توغرا - خاتالىقى باشقا گەپ. ھازىرچە بۇنى توغرا دەپ تورايلى!) ئەجەپ سالاچىلىق قىلدىڭ. ئەمما ئاشۇ قورئاننى تەرجىمە قىلغانلار خەتمىدىن ئۆتكەنمۇ يوق. بڭ ھەقتە تىنىپ قويمىدىڭغۇ؟ ساڭا دەپ قوياي: ئولارنىڭ ئىچىدە ئابلىمىىت داموللا 20يىلنىڭ ئالدىدا بىر قېتىم خەتمىدىن ئۆتكەن. ئەمما تولۇقى بلەن ئەمەس. قالغانلىرى ھېچقايسىسى خەتمىدىنى ئۆتمىگەن. تېخى ئىككى كومپارتىيەنىڭ خىزمىتى ئوزۇن مەزگىل قىلغان، يۈرىكىگىچە قىزىللىققا پاتقان ئادەملەر. ئەجەپ بۇلار پىكىر ئەمەس، قورئاننى تەرجىمە قىلىش ئىشىنى قىلسا، بۇلارغا پىكىر قىلماقتا يوق، بۇ ھەقتە چاپان قېلىپىلىق قىلىپ يۈرىسەن؟سەندىكى ئىمان مۇشۇ ئاخىر؟<br />
+توغرا، سەن ناھايىتى «بىلىملىك» ئىكەنسەن. شۇڭا سۈرىتىڭنى مەھمۇد قاشغەرى بىلەن بېزىۋاپسەن. پاكىت ئاسماندىكى ئايدەك تۇرغاندا خاتالىقىغا پۇشايمان قىلىشنىڭ ئورنىغا يەنە باشقىلارغا ئەيىب ئارتىش بىلەن يۈرۈش بەلكىم سىنىڭ خىلىڭدىكى ئادەملەرنىڭ ئىشى بولسا كىرەك. توربەتنىمۇ كۆرەلمىگەن ئوخشايسەن. ( سەندىغۇ بۇ قابىلىيەتنىڭ بارلىقىنى ھىس قىلمىغان ئىدىم ) ھالىڭ چاغلىق مانا. يېرىم چىلەك سۇ بەك شالاقشىيدۇ دەپ قىلغان گەپلىرىڭ ئىبنى تەيمىيەدىن قېلىشمايدۇ، ئەمما ئەمەلىيەتىڭ قامغاكتەكلا. كۆرگەن بولساڭ، شۇ توربەتتە ئىبنى تەيمىيەنىڭ سىنىڭ مۇشۇ مەسىلىدىكى پوزۇتسىيەڭنى ناھايىتى ئېنىق چۈشەندۈرۈپ بېرىدىغان ئىسىل مەزمۇنلار بار ئىدى. نادانلىقىنڭنى ماڭا كۆرسەتكۈچە، ئۈزۈڭنى ئوڭشاشقا سەرپ ئەت. پەيغەمبىرىم دەپ ئېلىشىم ئۇيغۇرچىدىن ساۋاسى بار ئادەم ئۈچۈن ناھايىتى ئېنىق بىر ئوقۇم. چۈنكى بىز مۇھەممەد ئەلەيھىسالامغا ئۈممەت. پەيغەمبىرىمىز دېگەندە شۇ مۇبارەك زات كۆزدە تۇتىلىدۇ. پەيغەمبىرىمى دېيىشتىن يېقىملىق ھىس قىلمىدىڭمۇ؟ مىنى بىلەرمەن دەپ ئەييىبلەشنىڭ ئورنىغا ئۈزۈڭنى ئازراق دەڭسەپ باق. بۇنىڭغا كۈچۈڭ يەتمىسە، ئۈزۈڭ بىلىدىغان ئۆلىمالاردىن سوراپ كۆر! بىلمىگەن نەرسىلەرگە ئاتىكاچىلىق قىلىشتىن چىقىۋاتىدىغۇ سىنىڭ بۇ ئىشلىرىنىڭ!<br />
+شۇنچە پاكىتلىق، ئىخچام گەپلەرنى قىلسام، بىر نەرسىنى ھىس قىلىشنىڭ ئورنىغا بارغانسىرى شالىڭنى چېچىپ كېتىۋاتىسەن. ھەتتا مەككە، كەئبەنى ئەسلىتىپ قويساممۇ پىسەنتىڭگە ئالمىدىڭ. قارىغاندا سەندە ئويىلىشتىن ئەسەر يوق ئىكەن. دىن سىنى&nbsp;&nbsp;باشقۇرماي، سەن دىننى چورگىلىتىپ ئوينايدىكەنسەن. مۇقەدەسسلىككە بىر ئاز ھۆرمىتىڭ، ئۇنىڭدىن ئەيمىنىش تۇيغۇڭ بولسىچۇ كاشكى!<br />
+ھەقىقەتەن توغرا. خۇدادىن ئويالمىغان ئادەم ھېچنىمىدىن ئويالمايدۇ.<br />
+گەپ قايتۇرما دېسەم بەرىبىر ئونىماي بىر مۇنچە تىللايسەن مىنى ھەقىچان. ئەمما ئۈزۈڭنى چاغلاپ گەپ قىلارسەن! مىللەت، دىن دەپ ئوتتۇرىغا چۈشۈش ئۇنداق ۋەزنى يېنىك ئىش ئەمەس!مىجەزىڭ بىردەك، پىكىرىڭ لوگىكىلىك بولسۇن!</dd>
+
+
+</dl><a name="comment_anchor_15884"></a>
+<dl id="comment_15884_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-3246.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=3246&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=15884&amp;handlekey=reportcommenthk_15884" id="a_report_15884" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-3246.html" id="author_15884">.tuz.</a>
+<span class="xg1 xw0">2013-2-12 01:22 PM</span>
+</dt>
+
+<dd id="comment_15884">سەن مەندىنمۇ دۆتكەنسەن ! مېنىڭ سەندىن مۇسۇلمانمۇ سەن دەپ سۇئال تاشلىشىم ماڭا ھاقارەت قىلىپ يازغان ئۇچۇرىڭغا ئاساسەن ساڭا قۇيۇلغان سۇئال ئۇ ؟! سەت گەپ بىلەن تىللاپ ئۇچۇر يازساڭ ، چىرايلىق گەپ بىلەن جاۋاپ قايترۇسام يەنى ھاقارەت قىلساڭ ، سىنىڭ قەبىھ بولماي مېنىڭ قەبىھما ؟! ئۆز مىللىتىڭنى ئىشەك دەپ قەبىھ گەپ قىلساڭ ، مىللەتنىڭ دۈشمىنى دىمەي نېمە دەيمەن ؟! ئۆزەڭنىڭ ھاقارەتلىرى ئادەتتىكىچە ؟! ھەجىبا ھاقارىتىڭگە قارىتا قارشى چىقماي سۈكۈت قىلىۋرىشىم كىرەكما ؟! تازا بىر شەخىسىيەتچى ئۆزەڭنىكىنىلام راس دەيدىغان بەغرەز نېمىكەنسەن !!! <br />
+تولا ماڭا قارا چاپلىما ، مەن ھېچقانداق يەردە ئۇيغۇرلارنىڭ قۇرئان ھەققىدىكى تونۇشىغا توسقۇنلۇق قىلمىدىم ! ھەم توسقۇنلۇقمۇ قىلمايمەن !! بەك چىڭ تۇرۋالساڭ پاكىت كۆرسەت ! سەن تولا ئۆگزىگە چىقىۋىلىپ ماڭا سەزگۈر سۇئال تاشلىما !! <br />
+ساڭا شۇنى تەكىتلەپ قوياي ، سەن بەك بىلەرمەن بولساڭ ، پەيغامبىرىمىز مۇھەممەد ئەلەيھىسالامنىڭ مۇبارەك ئىسىمىنى تىلغا ئالغىنىڭدا ، «پەيغەمبىرمىز مۇھەممەد ئەلەيھىسالام » دەپ ئىلىشنى ھەم يىزىشنى بىلىۋال !!! <br />
+يەنى بىرسى بەك ياسالمىكەنسەن ، ھەي قارىغىنا كىم دەسلەپتە ئىغىزىغا ھىزى بولامپتۇ !&nbsp;&nbsp;ئىغىزىڭدا دەپ قويغان بىلەن ئەمىلىڭ يوق داۋراڭچى ئۆزەڭنى كۆرسىتىشكە ھېرىسمەن بىر كىشىكەنسەن !!! ئېغزىڭنى ئۆزەڭ بۇزۇپ تۇرۇپ ماڭا تەنبىھ بىرىشتىن ئۇيالساڭچۇ كاشكى !!! تىخى چوڭ ئىشلاردىن سۆزلەپ كىتىپسەن ، ئۆزەم قانچىلىك دىمەي ئۇ مۇجۇمەل گۇي !!!<br />
+مەن بىلەن ئۆزۈڭ ئىيتىشىپ يەنى مەن بىلەن ئىيتىشما دەپسەنغۇ ؟! ساڭا شۇنى تەۋسىيە قىلاي ئاڭلىمىساڭمۇ : سەن باشقىلارنى ئۆزۈڭگە قايىل قىلىشقا ياكى مايىل قىلىشقا ئالدىراشتىن ئاۋال ، باشقىلارنى ھۆرمەتلەشنى ھەمدە ئىللىقلىق يەتكۈزۈپ چىرايلىق گەپ قىلىشنى ھەرگىز ئۇنتۇپ قالما !! ھەرگىز ئۇنتۇپ قالما !!!! <br />
+سەمىمى نىيەت بىلەن كۆرسىتىپ بىرىلگەن خاتالىقنى تۈزتىش ئىنتايىن ئوڭاي بولىدۇ . بۇندىن كىيىن ئۆز كەمچىلىكىڭنى يوشۇرۇشقا ئەمەس يوقۇتۇشقا تىرىشقىن ، شۇندىلا مۇكەممەل بولۇپ ئادىمىلىك چوققىسىغا ئۆرلەيسەن بايقۇش !!!</dd>
+
+
+</dl><a name="comment_anchor_15878"></a>
+<dl id="comment_15878_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-90532.html" c="1"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=90532&size=small" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=15878&amp;handlekey=reportcommenthk_15878" id="a_report_15878" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-90532.html" id="author_15878">seddichin</a>
+<span class="xg1 xw0">2013-2-12 12:11 AM</span>
+</dt>
+
+<dd id="comment_15878">سۆزلىرىڭدىن كىچىك بالىلىقىڭ پوراپ تورىدۇ. سەن قانداق موسۇلمان دېگەن سوئالنى ئۆزۈڭدىن سورا. يەنە بىىر قېتىم ئەسكەرتىپ قوياي: باشقىلارنى موسۇلمانمۇ ئەمەس ياكى قانداق موسۇلمان دەپ ئايرىش سىنىڭ ئىشىڭ ئەمەس. ئەلۋەتتە ھېچكىمنىڭ ئىشىمۇ ئەمەس. شۇڭا ئۆزۈڭنى بەك كۆرەڭ تۇتۇپ تولا باشقىلاردىن مۇسۇلمانلىق ھەققىدە جاۋاپقا زورلاپ يۈرمە! سەن ئۆزۈڭنىڭ دىن توغرۇلۇق جېق نەرسە بىلمەيدىغانلىقىڭنى بىلىپ تورۇپ نىمىشقا مۇشۇنداق تېمىلاردا باشقىلار بىلەن تالىشىپ يۈرۈسەن؟سەن تولقمۇ قاپ يۈرەكلىك بىلەن مىنى مىللەتنىڭ ئەشەددى دۈشمىنى دەپ ناھايىتى قەبىھ گەپ بىلەن سۈپەتلىدىڭ.ئەجەبا بۇ سەنچە مەن ئۈچۈن ئادەتتىكى گەپمۇ؟ بىلسەڭ ئىدىڭ، سەن شۇ ۋاقىتلاردىكى سالاچىلىق پوزۇتسىيەنىڭ بىلەن ئۇيغۇرلارنىڭ قورئان ھەققىدىكى تونۇشىنى بىرلىككە كەلتۈرۈشكە چوڭ توسقۇنلۇق قىلدىڭ. دېيىشكە توغرا كەلسە مانا بۇنى دۈشمەنلىك دەيمىز. ئۇيغۇرلار ھەممىسى بىر سەپتە تورۇپ زالىمغا قارشى تۇرسا، ھېچبولمىسا ئولارنى بايقۇت قىلسا ساڭا نىمە زىيىنى بولار ئىدى؟ سىنىڭ قاچانغىچە مۇشۇنداق زۇلۇم ئاستىدا يۈرگۈڭ بار؟توردا مۈكۈپ يۈرمەي ئاشكارا سورۇندا پىكىر بايان قىلغۇڭ يوقمۇ زادى؟ئىش - ئەمەل نەتىجە ئېتىبارى بىلەن گۈزەلدۇر. سەزگۈر تىمىلاردا يىراقلىقنى كۆرەرلىك بىلەن پىكىر قىلغۇلۇق. سەن مەن ھېچنىمە قىلمىدىم دېگىنىڭ بىلەن قىلغان ۋە تەسىر قىلغانلىرىڭ ساڭا تەۋەدۇر. بۇنى ئويلىنىپ باق. سەندىكى ھازىرقى كاللا بىلەن مۇسۇلمانلىق راۋاج تاپالمايدۇ. بۇنىڭغا دۈشمەنگە چۈشلۇق دىت بولمىسا ئاقىۋەت نەتىجىسىز بولىدۇ خالاس. ئىسلامدىكى سىياسىي تۈزۈمدىن ھەقىچان خەۋىرىڭ يوق. ساڭا بۇنداق گەپلەرنى دېگەن بىلەنمۇ بەلكىم جېق بىر نەرسە ھىس قىلىپ يېتەلمەيسەن. ئەڭ ياخشىسى دېسەڭ ياخشىنى، توغرىسىنى، پايدىلىقىنى دە، بولمىسا سۈكۈت قىل. بۇ سەن ئۈچۈن پايدىلىق. گەپلىرىڭدىن قارىسام بەكلا كۆرەڭ ئىكەنسەن. ھەدىسە مۇسۇلمان، قانداق مۇسۇلمان دېگەندەك گەپ ئېغىزىڭدىن چۈشمەيدۇ. قارىغاندا تۇرمۇشتىمۇ بەك جېق كىشىلەرگە قوللىنىدىغان ئوخشايسەن بۇ گەپنى. ئاخىرقى قېتىم ئاگاھلاندۇرۇپ قوياي: بۇ چاقچاق قىلىدىغان گەپ ئەمەس. ئەزەلدە كىمنىڭ قانداق يارىتىلغانلىقى ئاللاھقىلا مەلۇمدۇر. بەلكىم بۈگۈن موسۇلمان كىشى ئەتە ياكى كۈنلەرنىڭ بىرىدە كاپىر بولۇپ كېتىشى مۇمكىن. بۈگۈن كاپىر ئاتالغان بىرسىنىڭ كۈنلەرنىڭ بىرەدە مۇسۇلمان بولۇشى مۇمكىن. ئاخىرقى ئەمەل ئۆلگەن ۋاقتىڭدا ئېيتالىغان شاھادەتكە باغلىقتۇر. ئۇنىڭ ئۈستىگە پەيغەمبىرىم ئېنىق ئاگاھلاندۇرغان بۇ ھەقتە. ناۋادا موسۇلماننى ئەمەس دىسە ئۆزىگە قايتىدۇ دەپ. ناۋادا ئىماننى قەدىرلەيدىغان ئادەم بولسا، بۇ گەپ ۋەزنى تاغدىن ئېغىر بىر سۆز. ئۇنداق سۆزنى دېيىشتىن ھەركىم ھەزەر قىلماق لازىمدۇر. تەنتەكلىك بىلەن بۇنداق گەپلەرنى دىيىۋەرسەڭ ئاقىۋىتىڭگە ياخشى بولمايدۇ. پەيغەمبىرىم قاچان بىرسىگە موسۇلمان بولساڭ، سەن موسۇلمانمۇ دەپ بېقىپتىكەن. بالىلىقىڭنى تاشلا. ئوغۇل بالا بولغان ئىكەنسەن، خاراكتىرىڭ كۈچلۈك بولسۇن. ئاللاھ ئالدىدا ئەسقاتىدىغىنى سىنىڭ سالاچىلىقىڭ ئەمەس بەلكى پوزۇتسىيەڭدۇر. مۇقەددەس نەرسىلەرنى مۇقەددەس بىلىشنى، لايىقىدا ئىكرام كۆرسىتىشنى ئۈگەن. گەپ قىلمىساڭ سىنى كېلىپ گاچا دېمەيدۇ، ئەمما دەپ بولغاندىن كىيىن دېگىنىڭگە مەسئۇل بولمىساڭ بولمايدۇ. سەندىكى خەتەرلىك بۇ مىجەزنى ئۆزگەرت. قەلبنى بىلگۈچى ئاللاھ، شۇڭا باشقىلارنىڭ قەلبىگە ھۈكۈم قىلما ياكى ئۇنى دەڭسەپ يۈرمە! نىھايەت سەن باشقىلارنىڭ قانداقلىقىغا ئەمەس، ئۈزۈڭنىڭ قاندقالىقىغا ھىساب بىرىدىغان مەخلۇق! ( مەخلۇق ئاتالمىسىنى سەن مىنىلا ئاتاشقا ئىشلىتىپتىكەنسەن. ئەمەلىيەتتە كائىناتتا ئاللاھقا مەخلۇق بولمايدىغان ھېچنىمە يوق. ئۇنى بىر ئادەمگە خاسلاشتۇرۇش خاتا. ئىنسان ئىتراپ قىلسۇن ياكى قىلمىسۇن، ئۇ ئاللاھنىڭ مەخلۇقى. سەنمۇ شۇنىڭ ئىچىدە ئەلۋەتتە.)<br />
+پەيغەمبىرىم ئېغىزى بىلەن ئەۋرىتىنى ساقلاشقا كىپىل بولسا مەنمۇ ئۇنىڭ جەننەتكە كېرىشىگە كېپىل دېگەن. يەنە بەزى مەنبەلەردە ئىنسان ئېغىزى ۋە ئەۋرىتى سەۋەبلىك ھالاك بولىدۇ دەپمۇ كۆرسەتكەن. شۇڭا ئېغىزىڭنى باشقۇرۇشنى ئوبدان ئۈگەن. ئېغىزىڭ سەۋەبلىك خەيرسىز بولۇپ قالما. <br />
+مەن بىلەن تولا ئېتىشپ، قولۇڭدىن كەلمەيدىغان ئىش - مىنىڭ موسۇلمانلىقىمغا تون پىچماي، ئۆز قابىلىيىتىڭگە يارىشا ھالدا ( بۇنىڭغىمۇ ھېچبولمىغاندا&nbsp;&nbsp;ئىنگىلىزچە بىلمىسەڭ بولمايدۇ!) ماۋۇ توربەتكە قاراپ باققىنا قېنى. مىسرانىمدىلا چورگىلەپ يۈرمەي دۇنيا مۇشۇلا دەپ. سەن ئۈچۈن نىمىلەر باركىن:www.kalamullah.com</dd>
+
+
+</dl></div>
+</div>
+<div class="pgs cl mtm"><div class="pg"><a href="http://bbs.misranim.com/home.php?mod=space&uid=3246&do=wall&amp;page=5" class="nxt">كېيىنكى</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=3246&do=wall&amp;page=6">6</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=3246&do=wall&amp;page=5">5</a><strong>4</strong><a href="http://bbs.misranim.com/home.php?mod=space&uid=3246&do=wall&amp;page=3">3</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=3246&do=wall&amp;page=2">2</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=3246&do=wall&amp;page=1">1</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=3246&do=wall&amp;page=3" class="prev">&nbsp;&nbsp;</a></div></div>
+</div>
+<script type="text/javascript">
+var elems = selector('dd[class~=magicflicker]'); 
+for(var i=0; i<elems.length; i++){
+magicColor(elems[i]);
+}
+function succeedhandle_qcwall_3246(url, msg, values) {
+wall_add(values['cid']);
+}
+</script>
+</div>
+</div>
+</div>
+<div class="sd"><div id="pcd" class="bm cl"><div >
+<div class="hm">
+<p><a href="http://bbs.misranim.com/space-uid-3246.html"><img src="http://bbs.misranim.com/uc_server/avatar.php?uid=3246&size=middle" /></a></p>
+<h2 class="xs2"><a href="http://bbs.misranim.com/space-uid-3246.html">.tuz.</a></h2>
+</div>
+<ul class="xl xl2 cl ul_list">
+<li class="ul_add"><a href="http://bbs.misranim.com/home.php?mod=spacecp&amp;ac=friend&amp;op=add&amp;uid=3246&amp;handlekey=addfriendhk_3246" id="a_friend_li_3246" onclick="showWindow(this.id, this.href, 'get', 0);">دوست بولۇش</a></li>
+<li class="ul_contect"><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=3246&amp;do=wall">سۆز قالدۇرۇڭ</a></li>
+<li class="ul_poke"><a href="http://bbs.misranim.com/home.php?mod=spacecp&amp;ac=poke&amp;op=send&amp;uid=3246&amp;handlekey=propokehk_3246" id="a_poke_3246" onclick="showWindow(this.id, this.href, 'get', 0);">سالاملىشىش</a></li>
+<li class="ul_pm"><a href="http://bbs.misranim.com/home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_3246&amp;touid=3246&amp;pmid=0&amp;daterange=2" id="a_sendpm_3246" onclick="showWindow('showMsgBox', this.href, 'get', 0)">ئۇچۇر يېزىش</a></li>
+</ul>
+</div>
+</div>
+</div></div>
+</div>	</div>
+
+
+
+<div id="ft" class="wp cl">
+<div class="wp cl" style="color: #68B;text-align:center;"><a href="/" >مۇنبەر باش بېتىگە قايتىش</a><span class="pipe">|</span><a href="http://bbs.misranim.com/forum.php?mobile=yes" >يانفۇن</a><span class="pipe">|</span><strong><a href="http://bbs.misranim.com/" target="_blank">مىسرانىم مۇنبىرى</a></strong>
+</div>
+&nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=19p9" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"8464807","ui":0,"rt":"home","md":"space","pn":4,"logo":2},"virtualDomain":"bbs.misranim.com","extraParams":""});</script><div class="wp cl" style="text-align: center;direction:ltr;">
+Powered by <strong><a href="http://www.discuz.net" target="_blank" style="color: #68B;">Discuz!</a></strong> <em>X2</em>(<a title="ULP 2011-08-17 23:00 by NurQut Team" target="_blank" href="http://www.nurqut.com" style="color: #68B;">NurQut Team</a>)<span  style="direction: ltr; text-align: right; class="xs0">&copy; 2001-2011 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></span> <span>For <a href="http://bbs.misranim.com" target="_blank" style="color: #68B;"><b> misranim.com</b></a> ( <a href="http://www.miitbeian.gov.cn/" target="_blank">苏ICP备:11007730号</a> )</span>
+</div></script>
+<div id="footer">
+<div class="footer">
+<div align="center">
+
+
+
+<p>
+بېكىتىمىزدىكى يازمىلار شۇ شەخىسنىڭ شەخسىي كۆز قارىشىغا ۋەكىللىك قىلىدۇ،بىكىتىمىز بىلەن مۇناسىۋەتسىز.مۇنبىرىمىز پەقەتلا پىكىر ئالماشتۇرۇش سورۇنى ھازىرلىغان.
+<br>免责声明：本论坛所有来帖仅代表网友个人观点，不代表宝剑网站立场。本站只提供交流平台<br>
+<font color="red">بېكىتىمىز سىياسىيلىقى كۈچلۈك ،سېرىق ھەم دۆلىتىمىز قانۇنىغا زىت بولغان يازمىلارنى چەكلەيدۇ.ئۆزىڭىزنى ئاسراپ ئالدىنىشتىن ھەزەر ئەيلەڭ</font><br>
+<font color="red">本站禁止色情,政治,反动等国家法律不允许的内容，注意自我保护,谨防上当受骗</font><br>
+<font color="blue">مەدەنىيەتلىك تور مۇھىيتى ھازىرلاپ ،ناچار ئۇچۇرلارنى پاش قىلىڭ. QQ:364103 ،E-mail:364103@qq.com، ئىشخانا تېلفونى:13899972729</font>
+<br>文明办网文明上网举报QQ:364103,  举报E-mail:364103@qq.com ,联系电话：0991-13899972729</p>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;&nbsp;<a href="http://www.315rx.com/" target="_blank"><img src="static/image/tupian/zd/calogo.gif"></a><a href="http://www.bj.cyberpolice.cn/" target="_blank"><img src="static/image/tupian/zd/wzdzbs.gif"></a>&nbsp;&nbsp;<a href="http://net.china.com.cn/" target="_blank"><img src="static/image/tupian/zd/one.gif"></a>&nbsp; <a href="http://www.wgwj.gov.cn/" target="_blank"><img src="static/image/tupian/zd/three.gif"></a>&nbsp; <a href="http://www.itrust.org.cn" target="_blank"><img src="static/image/tupian/zd/1.png"></a></p>
+</div></div></div>	</div>
+
+<div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+<div class="tip_c">
+جۇغلانما 0, دەرىجە ئۆسۈش ئۈچۈن  جۇغلانما
+</div>
+<div class="tip_horn"></div>
+</div>
+<span id="scrolltop" onclick="window.scrollTo('0','0')">چوققىغا قايتىش</span>
+<script type="text/javascript">_attachEvent(window, 'scroll', function(){showTopLink();});</script>
+<script type="text/javascript">attachEvents();</script>
+</body>
+</html>

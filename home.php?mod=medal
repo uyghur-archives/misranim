@@ -1,0 +1,498 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ئوردېن -  مىسرانىم مۇنبىرى -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",مىسرانىم مۇنبىرى" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.misranim.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?AFU" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_home_medal.css?AFU" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'AFU', charset = 'utf-8', discuz_uid = '0', cookiepre = 'gaZi_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ياخشى باھا|,2|مۇنبەر پۇلى|,3|تۆھپە نۇمۇرى|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5taXNyYW5pbS5jb20vaG9tZS5waHA/bW9kPW1lZGFs', SITEURL = 'http://bbs.misranim.com/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script type="text/javascript">
+    var UG_VK_OPTS = {
+        all:  true,
+        blacklist: ['share_link', 'slink', 'seccodeverify', 'secanswer', 'price',
+            'readperm', 'email', 'qq', 'icq', 'yahoo', 'msn', 'site', 'alipay',
+            'taobao', 'bdaynew', 'sitenew', 'icqnew', 'qqnew', 'yahoonew',
+            'alipaynew', 'taobaonew', 'msnnew', 'emailnew', 'seccodeverify',
+            'nqemail','username']
+    };
+</script>
+<script src="static/js/ug_vk.min.js?AFU" type="text/javascript" charset="utf-8"></script>
+<script src="static/js/common.js?AFU" type="text/javascript"></script>
+<meta name="application-name" content="مىسرانىم مۇنبىرى" />
+<meta name="msapplication-tooltip" content="مىسرانىم مۇنبىرى" />
+<meta name="msapplication-task" content="name=مۇنبەر;action-uri=http://bbs.misranim.com/forum.php;icon-uri=http://bbs.misranim.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=ھويلا;action-uri=http://bbs.misranim.com/home.php;icon-uri=http://bbs.misranim.com/static/image/common/home.ico" /><script src="static/js/home.js?AFU" type="text/javascript"></script>
+</head>
+
+<body id="nv_home" class="pg_medal" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"></div>
+
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="ياردەمچى زىيارەتنى ئېچىش" class="switchblind">ياردەمچى زىيارەتنى ئېچىش</a>
+</div>
+</div>
+</div>
+
+
+<div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://bbs.misranim.com/" title="مىسرانىم مۇنبىرى"><img src="template/misranim_img//logo.png" alt="مىسرانىم مۇنبىرى" border="0" /></a></h2>
+</div><div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">تىزىملىك</a>
+<ul><li id="mn_forum" ><a href="http://bbs.misranim.com/forum.php" hidefocus="true" title="BBS"  >مۇنبەر<span>BBS</span></a></li><li id="mn_home" ><a href="http://bbs.misranim.com/home.php" hidefocus="true" title="Space"  >ھويلا<span>Space</span></a></li><li id="mn_Nc927" ><a href="search.php?mod=forum" hidefocus="true"  >ئىزدەش</a></li><li id="nqminisearch"><!-- common/nqpubsearchform --></li>
+</ul>
+<div class="kirix_uqur"><div class="y">
+<a class="xi2" onclick="showWindow('login', this.href);return false;" href="member.php?mod=logging&amp;action=login">كىرىش</a>
+<span class="pipe">|</span><a href="member.php?mod=register" class="xi2 xw1">تىزىملىتىش</a>
+<a id="minisearch" href="search.php?mod=forum" target="_blank">ئىزدەش</a>
+</div>
+</div>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div>
+<div id="mu" class="cl">
+
+</div>
+
+</div>
+</div><div id="hd_ad">
+<div class="wp"><div class="a_mu"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=unicode">
+</head>
+<table width="960" border="0" align="center">
+	<tbody>
+		<tr>
+
+	</tr>
+		<table width="960" border="0" align="center">
+	<tbody>
+</tbody></table>
+		
+		
+		<table width="960" border="0" align="center" >
+	<tbody>
+		<tr>
+	<td width="320">
+		<a href="http://www.irpan.com" target="_blank">
+		<img border="0" src="http://bbs.misranim.com/elan/irpan.gif" width="318" 
+
+height="80"></a></td>
+		<td width="320">
+		<a href="http://http://ad.barnaxirkiti.com/ad/pc/zaka.html" target="_blank">
+		<img border="0" src="http://bbs.misranim.com/yanfun/elan/barna3.jpg" width="317" height="80"></a> 
+		</td>
+
+		<td width="320">
+		<a href="http://www.xjhayat.com/u/y1.asp" target="_blank">
+		<img border="0" src="http://bbs.misranim.com/elan/hayatnuri.gif" width="317" 
+
+height="80"></a></td>
+
+	</tr>
+</tbody></table>
+<table width="958" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr 
+
+class="h" style="font-size:15px;background: rgba(11, 164, 202, 0.69);">
+<td height="32" style=";text-align:center;color:#FFFFFF;padding:5px 7px 0px 7px;">
+<span>
+
+
+<a href="http://www.misranim.com" title="MisraniM" target="_blank"><font 
+
+color="#FFFFFF">
+
+مىسرانىم باش بېتى </font></a>
+
+<a href="http://www.misranim.com/lirika" title="مۇھەببەت لىرىكىسى" target="_blank"><font 
+
+color="#ffffff">| مۇھەببەت لىرىكىسى  </font></a>
+<a href="http://www.misranim.com/html/down/20116521662777_1.html" title="تور ئويۇنلىرى" 
+
+target="_blank"><font color="#ffffff"> | تور ئويۇنلىرى </font></a>
+<a href="http://www.misranim.com/html/mtv/20108477682244_1.html" title="MTV" 
+
+target="_blank"><font color="#ffffff">|سۈرەتلىك ناخشا  </font></a>
+<a href="http://www.misranim.com/html/music/awazlik/20110682874933_1.html" title="
+
+ماگزىن" 
+
+target="_blank"><font color="#ffffff">|ئاۋازلىق ئەسەرلەر </font></a>
+<a href="http://www.misranim.com/html/music/uyghur/20118889761401_1.html" title="MP3" 
+
+target="_blank"><font color="#FFFFFF">| سۈرەتسىز ناخشا  </font></a>
+<a href="http://www.misranim.com/html/down/20116521662777_1.html" title="يۇمشاق دىتال" 
+
+target="_blank"><font color="#ffffff"> | يۇمشاق دىتال </font></a>
+<a href="http://www.misranim.com/gul" title="يۇمشاق دىتال" target="_blank"><font 
+
+color="#ffffff"> | تېما بېزەش رەسىمى </font></a>
+
+</span></td>
+
+</tr></tbody></table>
+
+
+
+
+
+</td></tr></tbody></table>
+<tr>
+<div style="width:100%; height:42px; background:url(static/image/public/bgimgs/tbg2.gif) repeat-x;"></div></div></div>
+</div>
+
+<style type="text/css"> /* .pl table.nurqut_tbg{width:auto;} */ table.nurqut_tbg td{text-indent:0;}</style>
+<div id="wp" class="wp">
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="باش بەت">مىسرانىم مۇنبىرى</a> <em>&rsaquo;</em>
+<a href="http://bbs.misranim.com/home.php?mod=medal">ئوردېن</a>
+</div>
+</div>
+
+<div id="ct" class="ct2_a wp cl">
+<div class="mn">
+<div class="bm bw0">
+<h1 class="mt">
+<img src="static/image/feed/medal.gif" alt="ئوردېن" class="vm" />
+ئوردېن مەركىزى</h1>
+
+<ul class="mtm mgcl cl"><li>
+<div id="medal_11_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>ئاخبارات ئەلچىسى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_11" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_11_menu', 'pos':'12!'});"><img src="static/image/common/014.gif" alt="ئاخبارات ئەلچىسى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">ئاخبارات ئەلچىسى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_12_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>ئالاھىدە تەرجىمان</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_12" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_12_menu', 'pos':'12!'});"><img src="static/image/common/016.gif" alt="ئالاھىدە تەرجىمان" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">ئالاھىدە تەرجىمان</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_13_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>ماھىر قەلەمكەش</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_13" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_13_menu', 'pos':'12!'});"><img src="static/image/common/05.gif" alt="ماھىر قەلەمكەش" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">ماھىر قەلەمكەش</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_14_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>ئىشچان باشقۇرغۇچى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_14" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_14_menu', 'pos':'12!'});"><img src="static/image/common/012.gif" alt="ئىشچان باشقۇرغۇچى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">ئىشچان باشقۇرغۇچى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_15_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>ئەستايىدىل باشقۇرغۇچى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_15" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_15_menu', 'pos':'12!'});"><img src="static/image/common/015.gif" alt="ئەستايىدىل باشقۇرغۇچى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">ئەستايىدىل باشقۇرغۇچى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_16_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>مۇنبەر نازارەتچىسى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_16" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_16_menu', 'pos':'12!'});"><img src="static/image/common/017.gif" alt="مۇنبەر نازارەتچىسى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">مۇنبەر نازارەتچىسى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_17_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>ئالاھىدە تۆھپە</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_17" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_17_menu', 'pos':'12!'});"><img src="static/image/common/09.gif" alt="ئالاھىدە تۆھپە" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">ئالاھىدە تۆھپە</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_18_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>پائالىيەتچان</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_18" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_18_menu', 'pos':'12!'});"><img src="static/image/common/01.gif" alt="پائالىيەتچان" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">پائالىيەتچان</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_19_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>شېئىرىيەت پەرۋانىسى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_19" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_19_menu', 'pos':'12!'});"><img src="static/image/common/023.gif" alt="شېئىرىيەت پەرۋانىسى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">شېئىرىيەت پەرۋانىسى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_20_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>ئۆمۈرلۈك شەرەپ</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_20" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_20_menu', 'pos':'12!'});"><img src="static/image/common/06.gif" alt="ئۆمۈرلۈك شەرەپ" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">ئۆمۈرلۈك شەرەپ</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_21_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>مۇنازىرە يېتەكچىسى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_21" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_21_menu', 'pos':'12!'});"><img src="static/image/common/010.gif" alt="مۇنازىرە يېتەكچىسى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">مۇنازىرە يېتەكچىسى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_22_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>رەسىم يوللاش ئۇستىسى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_22" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_22_menu', 'pos':'12!'});"><img src="static/image/common/022.gif" alt="رەسىم يوللاش ئۇستىسى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">رەسىم يوللاش ئۇستىسى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_23_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>مىسرانىم شاھزادىسى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_23" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_23_menu', 'pos':'12!'});"><img src="static/image/common/021.gif" alt="مىسرانىم شاھزادىسى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">مىسرانىم شاھزادىسى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_24_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>مىسرانىم مەلىكىسى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_24" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_24_menu', 'pos':'12!'});"><img src="static/image/common/013.gif" alt="مىسرانىم مەلىكىسى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">مىسرانىم مەلىكىسى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_25_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>مۇنبەر قىززىقچىسى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_25" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_25_menu', 'pos':'12!'});"><img src="static/image/common/019.gif" alt="مۇنبەر قىززىقچىسى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">مۇنبەر قىززىقچىسى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_26_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>ئالاھىدە ئىلگىرلەش</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_26" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_26_menu', 'pos':'12!'});"><img src="static/image/common/020.gif" alt="ئالاھىدە ئىلگىرلەش" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">ئالاھىدە ئىلگىرلەش</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_27_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>ئىلغار باشقۇرغۇچى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_27" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_27_menu', 'pos':'12!'});"><img src="static/image/common/018.gif" alt="ئىلغار باشقۇرغۇچى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">ئىلغار باشقۇرغۇچى</p>
+<p>
+</p>
+</li>
+<li>
+<div id="medal_28_menu" class="tip tip_4" style="display:none">
+<div class="tip_horn"></div>
+<div class="tip_c" style="text-align:left">
+<p>مىسرانىم مەستانىسى</p>
+<p class="mtn">
+ئاپتوماتسىز بېرىش
+</p>
+</div>
+</div>
+<div id="medal_28" class="mg_img" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'medal_28_menu', 'pos':'12!'});"><img src="static/image/common/024.gif" alt="مىسرانىم مەستانىسى" style="margin-top: 20px;width:auto; height: auto;" /></div>
+<p class="xw1">مىسرانىم مەستانىسى</p>
+<p>
+</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="appl">
+<div class="tbn">
+<h2 class="mt bbda">ئوردېن</h2>
+<ul>
+<li class="a"><a href="http://bbs.misranim.com/home.php?mod=medal">ئوردېن مەركىزى</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=medal&amp;action=log">ئوردېنلىرىم</a></li>
+</ul>
+</div>
+</div>
+</div>	</div>
+
+
+
+
+
+<div id="ft" class="wp cl">
+<div id="flk" class="" style="text-align:center;">
+<p>
+<a href="/" >مۇنبەر باش بېتىگە قايتىش</a><span class="pipe">|</span><a href="http://bbs.misranim.com/forum.php?mod=misc&action=showdarkroom" >قاماقخانا</a><span class="pipe">|</span><a href="http://bbs.misranim.com/forum.php?mobile=yes" >يانفۇن</a><span class="pipe">|</span><strong><a href="http://bbs.misranim.com" target="_blank">مىسرانىم مۇنبىرى</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">黔ICP备15011399号</a> )</p>
+<p class="xs0" style="font-size: 17px;">
+<span id="debuginfo">
+GMT+8, 2016-4-2 10:17 AM, Processed in 0.050778 second(s), 10 queries
+.
+</span>
+</p>
+</div>
+<div id="frt" style="text-align:center;">
+<p style="direction: ltr;">Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em>(<a title="ULP:20141102 by Nurqut Team" target="_blank" href="http://www.nurqut.net">NurQut Team</a>)
+<span style="direction: ltr;font-size: 17px;" class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></span><br><font color="red">شىنجاڭ مىسرانىم مەدەنىيەت تارقىتىش چەكلىك شىركىتى  </font></p>
+<div id="footer">
+<div class="footer">
+<div align="center">
+
+
+
+<p>
+بېكىتىمىزدىكى يازمىلار شۇ شەخىسنىڭ شەخسىي كۆز قارىشىغا ۋەكىللىك قىلىدۇ،بىكىتىمىز بىلەن مۇناسىۋەتسىز.مۇنبىرىمىز پەقەتلا پىكىر ئالماشتۇرۇش سورۇنى ھازىرلىغان.
+<br>免责声明：本论坛所有来帖仅代表网友个人观点，不代表秘思栏目网立场。本站只提供交流平台<br>
+<font color="red">بېكىتىمىز سىياسىيلىقى كۈچلۈك ،سېرىق ھەم دۆلىتىمىز قانۇنىغا زىت بولغان يازمىلارنى چەكلەيدۇ.ئۆزىڭىزنى ئاسراپ ئالدىنىشتىن ھەزەر ئەيلەڭ</font><br>
+<font color="red">本站禁止色情,政治,反动等国家法律不允许的内容，注意自我保护,谨防上当受骗</font><br>
+<font color="blue">مەدەنىيەتلىك تور مۇھىيتى ھازىرلاپ ،ناچار ئۇچۇرلارنى پاش قىلىڭ. QQ:364103 ،E-mail:364103@qq.com،</font>
+<br>文明办网文明上网举报QQ:364103,  举报E-mail:364103@qq.com </p>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;&nbsp;<a href="http://www.315rx.com/" target="_blank"><img src="static/image/tupian/zd/calogo.gif"></a><a href="http://www.bj.cyberpolice.cn/" target="_blank"><img src="static/image/tupian/zd/wzdzbs.gif"></a>&nbsp;&nbsp;<a href="http://net.china.com.cn/" target="_blank"><img src="static/image/tupian/zd/one.gif"></a>&nbsp; <a href="http://www.wgwj.gov.cn/" target="_blank"><img src="static/image/tupian/zd/three.gif"></a>&nbsp; <a href="http://www.itrust.org.cn" target="_blank"><img src="static/image/tupian/zd/1.png"></a></p>
+</div></div></div>	</div>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1459563475" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="چوققىغا قايتىش" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>چوققىغا قايتىش</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '8464807|X3.2|0.6||0||0|7|1459563475|994fde4e49cfed34929785560c5febc3|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

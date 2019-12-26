@@ -1,0 +1,489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ئۈمىدۋارنىڭ سۆز تاختىسى -  مىسرانىم مۇنبىرى -  Powered by Discuz!</title>
+
+<meta name="keywords" content="ئۈمىدۋارنىڭ سۆز تاختىسى" />
+<meta name="description" content="ئۈمىدۋارنىڭ سۆز تاختىسى ,مىسرانىم مۇنبىرى" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.misranim.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?HmP" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_home_space.css?HmP" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'HmP', charset = 'utf-8', discuz_uid = '0', cookiepre = 'gaZi_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ياخشى باھا|,2|مۇنبەر پۇلى|,3|تۆھپە نۇمۇرى|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5taXNyYW5pbS5jb20vaG9tZS5waHA/bW9kPXNwYWNlJnVpZD0xMDkyOTUmZG89d2FsbA==', SITEURL = 'http://bbs.misranim.com/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script type="text/javascript">
+    var UG_VK_OPTS = {
+        all:  true,
+        blacklist: ['share_link', 'slink', 'seccodeverify', 'secanswer', 'price',
+            'readperm', 'email', 'qq', 'icq', 'yahoo', 'msn', 'site', 'alipay',
+            'taobao', 'bdaynew', 'sitenew', 'icqnew', 'qqnew', 'yahoonew',
+            'alipaynew', 'taobaonew', 'msnnew', 'emailnew', 'seccodeverify',
+            'nqemail','username']
+    };
+</script>
+<script src="static/js/ug_vk.min.js?HmP" type="text/javascript" charset="utf-8"></script>
+<script src="static/js/common.js?HmP" type="text/javascript"></script>
+<script src="static/js/home.js?HmP" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href='data/cache/style_2_css_space.css?HmP' />
+<link id="style_css" rel="stylesheet" type="text/css" href="static/space/t5/style.css?HmP">
+<style id="diy_style">body {background-image:url('data/attachment/album/201602/12/112849mfcdfrjkukdzjk7z.png') !important;background-repeat:repeat !important;background-position:left top !important;color:#ff0000 !important;}body a {color:#ff0000 !important;}#hd {background-image:url('data/attachment/album/201602/12/112329k0hvoannhq5vny7j.png') !important;background-attachment:scroll !important;background-repeat:repeat !important;height:730px !important;}#ct {background-image:url(data/attachment/album/201509/06/184559wv3iflv36yvt9w99.jpg) !important;background-repeat:repeat !important;}#ct .move-span .blocktitle {background-image:url('data/attachment/album/201602/12/112953chcx7uxdqh12tgbd.png') !important;background-repeat:repeat !important;}</style>
+</head>
+
+<body id="space" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+
+
+<div id="toptb" class="cl">
+<div class="y">
+<a href="member.php?mod=register">تىزىملىتىش</a>
+<a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)">كىرىش</a>
+</div>
+<div class="z">
+<a href="./" title="مىسرانىم مۇنبىرى" class="xw1">مىسرانىم مۇنبىرى</a>
+<a href="http://bbs.misranim.com/home.php?mod=space&amp;do=home" id="navs" class="showmenu" onmouseover="showMenu(this.id);">قايتىش</a>
+</div>
+</div>
+<div id="hd" class="wp cl">
+
+<h2 id="spaceinfoshow"><strong id="spacename" class="mbn">
+ئۆمۈتۋارنىڭ ھوي ...</strong>
+<span class="xs0 xw0">
+<a id="domainurl" href="http://bbs.misranim.com/?109295" onclick="setCopy('http://bbs.misranim.com/?109295', 'ھويلا ئادرېسىنى كۆچۈرۈش ئوڭۇشلۇق بولدى');return false;">http://bbs.misranim.com/?109295</a>
+<a href="javascript:;" onclick="addFavorite(location.href, document.title)">[ساقلانما]</a>
+<a id="domainurl" href="http://bbs.misranim.com/?109295" onclick="setCopy('http://bbs.misranim.com/?109295', 'ھويلا ئادرېسىنى كۆچۈرۈش ئوڭۇشلۇق بولدى');return false;">[كۆچۈرۈش ]</a>
+<a id="share_space" href="home.php?mod=spacecp&amp;ac=share&amp;type=space&amp;id=109295" onclick="showWindow(this.id, this.href, 'get', 0);">[ھەمبەھىر]</a>
+<a href="http://bbs.misranim.com/home.php?mod=rss&amp;uid=109295">[RSS]</a>
+</span>
+<span id="spacedescription" class="xs1 xw0 mtn"></span>
+</h2><div id="nv">
+<ul>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=index">باش بەت</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=home&amp;view=me&amp;from=space">يېڭىلىق</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=doing&amp;view=me&amp;from=space">خاتىرە</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=blog&amp;view=me&amp;from=space">بلوگ</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=album&amp;view=me&amp;from=space">ئالبوم</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=thread&amp;view=me&amp;from=space">تېما</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=share&amp;view=me&amp;from=space">ھەمبەھىر</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=wall">سۆز</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=profile">ماتېرىيال</a></li>
+</ul>
+</div></div>
+
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul id="navs_menu" class="p_pop topnav_pop" style="display:none;">                <li id="mn_forum" ><a href="http://bbs.misranim.com/forum.php" hidefocus="true" title="BBS"  >مۇنبەر<span>BBS</span></a></li>                                <li id="mn_home" ><a href="http://bbs.misranim.com/home.php" hidefocus="true" title="Space"  >ھويلا<span>Space</span></a></li>                                                                                <li id="mn_Nc927" ><a href="search.php?mod=forum" hidefocus="true"  >ئىزدەش</a></li>                                                                </ul>
+<ul id="myspace_menu" class="p_pop" style="display:none;">
+    <li><a href="http://bbs.misranim.com/home.php?mod=space">ھويلام</a></li><li><a href="http://bbs.misranim.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.misranim.com/static/image/feed/friend_b.png) !important">دوست</a></li>
+<li><a href="http://bbs.misranim.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.misranim.com/static/image/feed/thread_b.png) !important">يازما</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.misranim.com/static/image/feed/favorite_b.png) !important">ساقلىغۇن</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=magic" style="background-image:url(http://bbs.misranim.com/static/image/feed/magic_b.png) !important">جابدۇق</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=medal" style="background-image:url(http://bbs.misranim.com/static/image/feed/medal_b.png) !important">ئوردېن</a></li>
+<li><a href="http://bbs.misranim.com/home.php?mod=task" style="background-image:url(http://bbs.misranim.com/static/image/feed/task_b.png) !important">ۋەزىپە</a></li>
+</ul>
+<div id="ct" class="ct2 wp cl">
+<div class="mn">
+<div class="bm">
+<div class="bm_h">
+<h1 class="mt">سۆز تاختىسى</h1>
+</div>
+<div class="bm_c">
+<form id="quickcommentform_109295" action="home.php?mod=spacecp&amp;ac=comment" method="post" autocomplete="off" onsubmit="ajaxpost('quickcommentform_109295', 'return_qcwall_109295');doane(event);">
+<p>
+<span id="comment_face" title="ئىپادە قىستۇرۇش" onclick="showFace(this.id, 'comment_message');return false;" class="cur1"><img src="static/image/common/facelist.gif" alt="facelist" class="vm" /></span>
+</p>
+<div class="tedt mtn mbn">
+<div class="area">
+<div class="pt hm">سىز كىرگەندىن كېيىن ئاندىن سۆز قالدۇرالايسىز <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">كىرىش</a> | <a href="member.php?mod=register" class="xi2">تىزىملىتىش</a></div>
+</div>
+</div>
+<p>
+<input type="hidden" name="referer" value="home.php?mod=space&amp;uid=&amp;do=wall" />
+<input type="hidden" name="id" value="109295" />
+<input type="hidden" name="idtype" value="uid" />
+<input type="hidden" name="handlekey" value="qcwall_109295" />
+<input type="hidden" name="commentsubmit" value="true" />
+<input type="hidden" name="quickcomment" value="true" />
+<button type="submit" name="commentsubmit_btn"value="true" id="commentsubmit_btn" class="pn"><strong>سۆز قالدۇرۇش</strong></button>
+<span id="return_qcwall_109295"></span>
+</p>
+<input type="hidden" name="formhash" value="f01789e2" />
+</form>
+<hr class="da mtm m0" />
+<div id="div_main_content" class="mtm mbm">
+<div id="comment">
+<div id="comment_ul" class="xld xlda"><a name="comment_anchor_49317"></a>
+<dl id="comment_49317_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49317&amp;handlekey=reportcommenthk_49317" id="a_report_49317" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49317">رەئسە</a>
+<span class="xg1 xw0">2016-3-10 08:33 PM</span>
+</dt>
+
+<dd id="comment_49317"><div class="quote"><blockquote><b>ئۈمىدۋار</b>: رەھمەت</blockquote></div>&nbsp;&nbsp;<img src="static/image/smiley/comcom/22.gif" class="vm"> ئەرزىمەيدۇ</dd>
+
+</dl><a name="comment_anchor_49314"></a>
+<dl id="comment_49314_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49314&amp;handlekey=reportcommenthk_49314" id="a_report_49314" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49314">رەئسە</a>
+<span class="xg1 xw0">2016-3-9 11:12 PM</span>
+</dt>
+
+<dd id="comment_49314"><div class="quote"><blockquote><b>ئۈمىدۋار</b>: ۋەئەلەيكۇم ئەسسالام ئەھۋالىم ياخشى ئەمەس ئۆزىڭىزچۇ ياخشىمۇ</blockquote></div>ئەمسە ياخشى ئارام ئىلىڭ بالدۇرراق ساقىيشىڭىزنى ئۈمىد قىلمەن ئاكا</dd>
+
+</dl><a name="comment_anchor_49300"></a>
+<dl id="comment_49300_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49300&amp;handlekey=reportcommenthk_49300" id="a_report_49300" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49300">رەئسە</a>
+<span class="xg1 xw0">2016-3-5 07:35 PM</span>
+</dt>
+
+<dd id="comment_49300">ئەسسالامۇ ئەلەيكۇم قانداق ئەھۋالىڭىز ئاكا ھەجەپ يوقاپلا كەتتىڭىزغۇ نىم ئىشلا بىلەن ئالدىراش يۈرىسىز؟</dd>
+
+</dl><a name="comment_anchor_49289"></a>
+<dl id="comment_49289_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-133021.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/13/30/21_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49289&amp;handlekey=reportcommenthk_49289" id="a_report_49289" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-133021.html" id="author_49289">ئىنتىزار</a>
+<span class="xg1 xw0">2016-3-4 01:53 AM</span>
+</dt>
+
+<dd id="comment_49289">ئەسسالامۇ ئەلەيكۇم بوشلۇقىڭىزنى چىرايلىق بېزىۋاپسىز ناخشىلىرىمۇ ياخشىكەن&nbsp;&nbsp;لېكىن بوشلۇققا&nbsp;&nbsp;ناخشىنى قانداق كىرگۈزىدۇ مەن پەقەتلا بىلەلمىدىم</dd>
+
+</dl><a name="comment_anchor_49245"></a>
+<dl id="comment_49245_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49245&amp;handlekey=reportcommenthk_49245" id="a_report_49245" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49245">رەئسە</a>
+<span class="xg1 xw0">2016-2-24 12:38 PM</span>
+</dt>
+
+<dd id="comment_49245"><div class="quote"><blockquote><b>ئۈمىدۋار</b>: ئاللاھ شىپالىق بەرگەي</blockquote></div>ئامىن ئىنشا ئاللا</dd>
+
+</dl><a name="comment_anchor_49242"></a>
+<dl id="comment_49242_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49242&amp;handlekey=reportcommenthk_49242" id="a_report_49242" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49242">رەئسە</a>
+<span class="xg1 xw0">2016-2-23 09:15 PM</span>
+</dt>
+
+<dd id="comment_49242"><div class="quote"><blockquote><b>ئۈمىدۋار</b>: سىزنىڭ ھويلا-ئارامىڭىزنى چىرايلىقو دېسەم سىزگە يەتمەيمىز دەيسىز غۇ&nbsp; &nbsp; <img src="static/image/smiley/comcom/4.gif" class="vm"> </blockquote></div>ھې ھې ھەي راس ئاڭلىدڭىزمۇ ئاكا مىھرىگۈل ئاچامنى ئاخىرى ئوپراسيە قىلدىغان بولۇپتۇ ئاڭلاپ بەك خۇش بولدۇم بۈگۈن قەشقەرگە كەپتۇ ئائشە ئاچام شۇنداق دەيدۇ سىز ھۇرۇنلۇق قىلىپ چ چ ئاچماي مۇھىم خەۋارلەردىن قۇرۇق قالدىڭىز جۇمۇ شۇڭا دەيمەنغۇ ھۇرۇنلۇق قىلماي پات پات چ چ ئىچىپ تۇرۇڭ دەپ</dd>
+
+</dl><a name="comment_anchor_49238"></a>
+<dl id="comment_49238_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49238&amp;handlekey=reportcommenthk_49238" id="a_report_49238" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49238">رەئسە</a>
+<span class="xg1 xw0">2016-2-23 01:07 PM</span>
+</dt>
+
+<dd id="comment_49238"><div class="quote"><blockquote><b>ئۈمىدۋار</b>: سىزنىڭمۇ چىرايلىققۇ</blockquote></div>سىزگە يەتمەيمىز جۇمۇ</dd>
+
+</dl><a name="comment_anchor_49235"></a>
+<dl id="comment_49235_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49235&amp;handlekey=reportcommenthk_49235" id="a_report_49235" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49235">رەئسە</a>
+<span class="xg1 xw0">2016-2-23 03:29 AM</span>
+</dt>
+
+<dd id="comment_49235">ۋاھ ھويلىڭىزننى نىمانداق چىيارلىق بىزۋالدىڭىز ئاكا</dd>
+
+</dl><a name="comment_anchor_49218"></a>
+<dl id="comment_49218_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49218&amp;handlekey=reportcommenthk_49218" id="a_report_49218" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49218">رەئسە</a>
+<span class="xg1 xw0">2016-2-17 06:41 PM</span>
+</dt>
+
+<dd id="comment_49218"><div class="quote"><blockquote><b>ئۈمىدۋار</b>: ئەسسالامۇ-ئەلەيكۇم مەن سىزگە ئەۋەتىپ بەرگەن مېيىپنىڭ ھېكايىسى دېگەن كىتاب نى ماڭ ...</blockquote></div>ۋەئەلەيكۇم ئەسسالام چاتاق يوق ئەمسە چ چ نى ئىچىڭە</dd>
+
+</dl><a name="comment_anchor_49153"></a>
+<dl id="comment_49153_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49153&amp;handlekey=reportcommenthk_49153" id="a_report_49153" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49153">رەئسە</a>
+<span class="xg1 xw0">2016-2-7 10:06 PM</span>
+</dt>
+
+<dd id="comment_49153"><div class="quote"><blockquote><b>ئۈمىدۋار</b>: با سىڭلىم مەن ، شۇ تۇرغا چىقىش خۇشاقمايدىغان بۇپ قالدى ئۇنۇڭ ئۈستىگە كۇمپىيۇتىرىم ...</blockquote></div>ھەئە ئاكا ساقيىپ كەتتىم</dd>
+
+</dl><a name="comment_anchor_49148"></a>
+<dl id="comment_49148_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=49148&amp;handlekey=reportcommenthk_49148" id="a_report_49148" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_49148">رەئسە</a>
+<span class="xg1 xw0">2016-2-7 08:00 PM</span>
+</dt>
+
+<dd id="comment_49148"><div class="quote"><blockquote><b>ئۈمىدۋار</b>: ئەسسالامۇ ئەلەيكۇم قانداق ئەھۋالىڭىز</blockquote></div>ۋەلەيكۇم ئەسسالام ياخشى سىزچۇ يوقاپ كەتتىڭىزغۇ ئاكا</dd>
+
+</dl><a name="comment_anchor_48986"></a>
+<dl id="comment_48986_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-110995.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/11/09/95_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=48986&amp;handlekey=reportcommenthk_48986" id="a_report_48986" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-110995.html" id="author_48986">رەئسە</a>
+<span class="xg1 xw0">2016-1-17 05:58 PM</span>
+</dt>
+
+<dd id="comment_48986"><div class="quote"><blockquote><b>ئۈمىدۋار</b>: <a href="http://bbs.misranim.com/thread-146622-1-1.html" target="_blank">http://bbs.misranim.com/thread-146622-1-1.html</a></blockquote></div>&nbsp;&nbsp;<img src="static/image/smiley/comcom/9.gif" class="vm">&nbsp;&nbsp;<img src="static/image/smiley/comcom/9.gif" class="vm">&nbsp;&nbsp;<img src="static/image/smiley/comcom/9.gif" class="vm"></dd>
+
+</dl><a name="comment_anchor_48835"></a>
+<dl id="comment_48835_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-131250.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/13/12/50_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=48835&amp;handlekey=reportcommenthk_48835" id="a_report_48835" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-131250.html" id="author_48835">yizdidim</a>
+<span class="xg1 xw0">2016-1-4 07:22 PM</span>
+</dt>
+
+<dd id="comment_48835"><div class="quote"><blockquote><b>ۆمۈتۋار</b>: چ چ غا قۇشۇڭ ئەمسە</blockquote></div>ئۇچۇر ئارقىلىق ئۈگۈتۈپ قويسىڭىز بولىدىغۇ <img src="static/image/smiley/comcom/2.gif" class="vm"></dd>
+
+</dl><a name="comment_anchor_48829"></a>
+<dl id="comment_48829_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-127888.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/12/78/88_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=48829&amp;handlekey=reportcommenthk_48829" id="a_report_48829" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-127888.html" id="author_48829">gayem</a>
+<span class="xg1 xw0">2016-1-4 02:31 PM</span>
+</dt>
+
+<dd id="comment_48829">ئەسالامىمۇ ئەلەيكۇم&nbsp;&nbsp;.ماڭا لايىھە لەشنى ئۇگۇتۇپ قۇيامىسز</dd>
+
+</dl><a name="comment_anchor_48770"></a>
+<dl id="comment_48770_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-132204.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/13/22/04_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=48770&amp;handlekey=reportcommenthk_48770" id="a_report_48770" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-132204.html" id="author_48770">ئۇيغۇربەگ</a>
+<span class="xg1 xw0">2016-1-3 10:33 AM</span>
+</dt>
+
+<dd id="comment_48770">ئەسسىلامۇ ئەلەيكۇم</dd>
+
+</dl><a name="comment_anchor_48723"></a>
+<dl id="comment_48723_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-131250.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/13/12/50_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=48723&amp;handlekey=reportcommenthk_48723" id="a_report_48723" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-131250.html" id="author_48723">yizdidim</a>
+<span class="xg1 xw0">2016-1-2 02:10 PM</span>
+</dt>
+
+<dd id="comment_48723"><div class="quote"><blockquote><b>ۆمۈتۋار</b>: سىزگىمۇ بىزەپ بىرەيمۇ يا&nbsp; &nbsp;<img src="static/image/smiley/comcom/22.gif" class="vm"></blockquote></div>بولىدۇ!!!!!!!!!!!! <img src="static/image/smiley/comcom/2.gif" class="vm">&nbsp;&nbsp;<img src="static/image/smiley/comcom/23.gif" class="vm"></dd>
+
+</dl><a name="comment_anchor_48697"></a>
+<dl id="comment_48697_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-131250.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/13/12/50_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=48697&amp;handlekey=reportcommenthk_48697" id="a_report_48697" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-131250.html" id="author_48697">yizdidim</a>
+<span class="xg1 xw0">2016-1-1 06:48 PM</span>
+</dt>
+
+<dd id="comment_48697">ھويلىڭىزنى ھەجەپ پەيزى بىزىۋاپسىزغۇ <img src="static/image/smiley/comcom/22.gif" class="vm"></dd>
+
+</dl><a name="comment_anchor_48688"></a>
+<dl id="comment_48688_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-130596.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/13/05/96_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=48688&amp;handlekey=reportcommenthk_48688" id="a_report_48688" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-130596.html" id="author_48688">ramazan45</a>
+<span class="xg1 xw0">2016-1-1 04:47 PM</span>
+</dt>
+
+<dd id="comment_48688">ئەسسالامۇئەلەيكۇم تىشلىقمۇ يېڭى يىلىڭىزغامۇبارەكبولسۇن</dd>
+
+</dl><a name="comment_anchor_48670"></a>
+<dl id="comment_48670_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-106974.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/10/69/74_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=48670&amp;handlekey=reportcommenthk_48670" id="a_report_48670" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-106974.html" id="author_48670">xahla117</a>
+<span class="xg1 xw0">2015-12-31 08:21 PM</span>
+</dt>
+
+<dd id="comment_48670"><div class="quote"><blockquote><b>ۆمۈتۋار</b>: ئەسسالامۇ-ئەلەيكۇم يىڭى يىلىڭىزغا مۇبارەك بۇلسۇن&nbsp; &nbsp;<img src="static/image/smiley/comcom/2.gif" class="vm"></blockquote></div>ۋەئەلەيكۇم ئەسسالام،رەھمەت بىرگە بولسۇن</dd>
+
+</dl><a name="comment_anchor_48518"></a>
+<dl id="comment_48518_li" class="bbda cl"><dd class="m avt"><a href="http://bbs.misranim.com/space-uid-90636.html" c="1"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/09/06/36_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_small.gif'" /></a></dd>
+<dt>
+<span class="y xw0">
+
+        <!--a href="home.php?mod=spacecp&amp;ac=common&amp;op=report&amp;idtype=comment&amp;id=48518&amp;handlekey=reportcommenthk_48518" id="a_report_48518" onclick="showWindow(this.id, this.href, 'get', 0);">پاش قىلىش</a-->
+</span>
+
+<a href="http://bbs.misranim.com/space-uid-90636.html" id="author_48518">maripatogli</a>
+<span class="xg1 xw0">2015-12-27 11:15 AM</span>
+</dt>
+
+<dd id="comment_48518">ئۈندىدارىمنى قوشىۋىلىڭ&nbsp; &nbsp; 13565529097</dd>
+
+</dl></div>
+</div>
+<div class="pgs cl mtm"><div class="pg"><strong>1</strong><a href="http://bbs.misranim.com/home.php?mod=space&uid=109295&do=wall&amp;page=2">2</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=109295&do=wall&amp;page=3">3</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=109295&do=wall&amp;page=4">4</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=109295&do=wall&amp;page=5">5</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=109295&do=wall&amp;page=6">6</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=109295&do=wall&amp;page=7">7</a><a href="http://bbs.misranim.com/home.php?mod=space&uid=109295&do=wall&amp;page=8">8</a><label><input type="text" name="custompage" class="px" size="2" title="بەت نومۇرىنى كىرگزۈپ، يۆتكىلىڭ" value="1" onkeydown="if(event.keyCode==13) {window.location='home.php?mod=space&uid=109295&do=wall&amp;page='+this.value;; doane(event);}" /><span title="جەمئىي 8 بەت"> / 8 بەت</span></label><a href="http://bbs.misranim.com/home.php?mod=space&uid=109295&do=wall&amp;page=2" class="nxt"> كېيىنكى </a></div></div>
+</div>
+<script type="text/javascript">
+var elems = selector('dd[class~=magicflicker]');
+for(var i=0; i<elems.length; i++){
+magicColor(elems[i]);
+}
+function succeedhandle_qcwall_109295(url, msg, values) {
+wall_add(values['cid']);
+}
+</script>
+
+</div>
+</div>
+</div>
+<div class="sd"><div id="pcd" class="bm cl"><div class="bm_c">
+<div class="hm">
+<p><a href="http://bbs.misranim.com/space-uid-109295.html" class="avtm"><img src="http://bbs.misranim.com/uc_server/data/avatar/000/10/92/95_avatar_middle.jpg" onerror="this.onerror=null;this.src='http://bbs.misranim.com/uc_server/images/noavatar_middle.gif'" /></a></p>
+<h2 class="xs2"><a href="http://bbs.misranim.com/space-uid-109295.html">ئۈمىدۋار</a></h2>
+</div>
+<ul class="xl xl2 cl ul_list">
+<li class="ul_add"><a href="http://bbs.misranim.com/home.php?mod=spacecp&amp;ac=friend&amp;op=add&amp;uid=109295&amp;handlekey=addfriendhk_109295" id="a_friend_li_109295" onclick="showWindow(this.id, this.href, 'get', 0);">دوست بولۇش</a></li>
+<li class="ul_contect"><a href="http://bbs.misranim.com/home.php?mod=space&amp;uid=109295&amp;do=wall">سۆز</a></li>
+<li class="ul_poke"><a href="http://bbs.misranim.com/home.php?mod=spacecp&amp;ac=poke&amp;op=send&amp;uid=109295&amp;handlekey=propokehk_109295" id="a_poke_109295" onclick="showWindow(this.id, this.href, 'get', 0);">سالاملىشىش</a></li>
+
+<li class="ul_pm"><a href="http://bbs.misranim.com/home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_109295&amp;touid=109295&amp;pmid=0&amp;daterange=2" id="a_sendpm_109295" onclick="showWindow('showMsgBox', this.href, 'get', 0)">ئۇچۇر يوللاش</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod');
+if(values['type'] == 'add') {
+fObj.innerHTML = 'بىكار قىلىش';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = 'ئەگىشىش';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=f01789e2&fuid='+values['fuid'];
+}
+}
+</script></div>
+</div>
+
+	</div>
+
+
+
+
+
+<div id="ft" class="wp cl">
+<div id="flk" class="" style="text-align:center;">
+<p>
+<a href="/" >مۇنبەر باش بېتىگە قايتىش</a><span class="pipe">|</span><a href="http://bbs.misranim.com/forum.php?mod=misc&action=showdarkroom" >قاماقخانا</a><span class="pipe">|</span><a href="http://bbs.misranim.com/forum.php?mobile=yes" >يانفۇن</a><span class="pipe">|</span><strong><a href="http://bbs.misranim.com" target="_blank">مىسرانىم مۇنبىرى</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">黔ICP备15011399号</a> )</p>
+<p class="xs0" style="font-size: 17px;">
+<span id="debuginfo">
+GMT+8, 2016-4-5 05:29 PM, Processed in 0.051760 second(s), 10 queries
+.
+</span>
+</p>
+</div>
+<div id="frt" style="text-align:center;">
+<p style="direction: ltr;">Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em>(<a title="ULP:20141102 by Nurqut Team" target="_blank" href="http://www.nurqut.net">NurQut Team</a>)
+<span style="direction: ltr;font-size: 17px;" class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></span><br><font color="red">شىنجاڭ مىسرانىم مەدەنىيەت تارقىتىش چەكلىك شىركىتى  </font></p>
+<div id="footer">
+<div class="footer">
+<div align="center">
+
+
+
+<p>
+بېكىتىمىزدىكى يازمىلار شۇ شەخىسنىڭ شەخسىي كۆز قارىشىغا ۋەكىللىك قىلىدۇ،بىكىتىمىز بىلەن مۇناسىۋەتسىز.مۇنبىرىمىز پەقەتلا پىكىر ئالماشتۇرۇش سورۇنى ھازىرلىغان.
+<br>免责声明：本论坛所有来帖仅代表网友个人观点，不代表秘思栏目网立场。本站只提供交流平台<br>
+<font color="red">بېكىتىمىز سىياسىيلىقى كۈچلۈك ،سېرىق ھەم دۆلىتىمىز قانۇنىغا زىت بولغان يازمىلارنى چەكلەيدۇ.ئۆزىڭىزنى ئاسراپ ئالدىنىشتىن ھەزەر ئەيلەڭ</font><br>
+<font color="red">本站禁止色情,政治,反动等国家法律不允许的内容，注意自我保护,谨防上当受骗</font><br>
+<font color="blue">مەدەنىيەتلىك تور مۇھىيتى ھازىرلاپ ،ناچار ئۇچۇرلارنى پاش قىلىڭ. QQ:364103 ،E-mail:364103@qq.com،</font>
+<br>文明办网文明上网举报QQ:364103,  举报E-mail:364103@qq.com </p>
+
+<p>&nbsp;</p>
+<p align="center">&nbsp;&nbsp;<a href="http://www.315rx.com/" target="_blank"><img src="static/image/tupian/zd/calogo.gif"></a><a href="http://www.bj.cyberpolice.cn/" target="_blank"><img src="static/image/tupian/zd/wzdzbs.gif"></a>&nbsp;&nbsp;<a href="http://net.china.com.cn/" target="_blank"><img src="static/image/tupian/zd/one.gif"></a>&nbsp; <a href="http://www.wgwj.gov.cn/" target="_blank"><img src="static/image/tupian/zd/three.gif"></a>&nbsp; <a href="http://www.itrust.org.cn" target="_blank"><img src="static/image/tupian/zd/1.png"></a></p>
+</div></div></div>	</div>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1459848588" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="چوققىغا قايتىش" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>چوققىغا قايتىش</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '8464807|X3.2|0.6||0||0|7|1459848588|c6bd5fdd5c14752ad9875cfbe6466bd5|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>
